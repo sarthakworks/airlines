@@ -179,7 +179,7 @@ def render_schedules(origin, dest, day, cls):
 # ------------------------------------------------------------------ sidebar
 with st.sidebar:
     st.header("🛫 Flight Intelligence")
-    st.caption("Real Indian airline data · DGCA + 300k fares")
+    st.caption("Real Indian Airline Data (stale)")
     view = st.radio("View", [CHAT, EXPLORER, ISSUES, SCHED], index=0, label_visibility="collapsed")
     st.divider()
 
