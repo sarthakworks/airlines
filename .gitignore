@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Env / secrets  (keeps *.env.example)
+.env
+*.env
+!*.env.example
+
+# Vector store / caches (rebuilt from source)
+chroma_db/
+.cache/
+.ipynb_checkpoints/
+
+# OS / editor cruft
+.DS_Store
+~$*
+*.log
+
+# Node
+node_modules/
+
+# Course material (© TalentSprint) — kept locally, never published
+ReadMe_-_Mini-Project_4.pdf
+M5_MP1_Instructions.pdf
+MP4_NB_AI_Powered_Airline_Customer_Support_System.ipynb

@@ -1,0 +1,13 @@
+# Dependencies for the deployed Streamlit app (flight-intel/dashboard.py).
+# Streamlit Community Cloud installs this root requirements.txt.
+# (The M4 support bot has its own deps in project/requirements.txt.)
+streamlit==1.61.1
+pandas==3.0.5
+numpy==2.5.1
+pyarrow==24.0.0
+scikit-learn==1.9.0
+joblib==1.5.3
+langchain-core==0.3.86
+langchain-openai==0.3.35
+langgraph==0.3.34
+python-dotenv==1.2.2

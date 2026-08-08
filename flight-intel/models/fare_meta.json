@@ -1,0 +1,50 @@
+{
+  "mae": 2027.1345693630617,
+  "mape": 15.356660279369406,
+  "r2": 0.9759888155236125,
+  "cat_features": [
+    "airline",
+    "source_city",
+    "destination_city",
+    "departure_time",
+    "arrival_time",
+    "stops",
+    "class"
+  ],
+  "num_features": [
+    "duration",
+    "days_left"
+  ],
+  "typical_arrival": {
+    "Afternoon": "Night",
+    "Early_Morning": "Evening",
+    "Evening": "Night",
+    "Late_Night": "Early_Morning",
+    "Morning": "Evening",
+    "Night": "Morning"
+  },
+  "cities": [
+    "Bangalore",
+    "Chennai",
+    "Delhi",
+    "Hyderabad",
+    "Kolkata",
+    "Mumbai"
+  ],
+  "airlines": [
+    "AirAsia",
+    "Air_India",
+    "GO_FIRST",
+    "Indigo",
+    "SpiceJet",
+    "Vistara"
+  ],
+  "departure_times": [
+    "Afternoon",
+    "Early_Morning",
+    "Evening",
+    "Late_Night",
+    "Morning",
+    "Night"
+  ]
+}

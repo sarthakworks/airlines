@@ -1,0 +1,3471 @@
+Date,airline,grievances
+2021-08-16,Air Asia,5.0
+2021-08-17,Air Asia,6.0
+2021-10-15,Air Asia,4.0
+2021-10-18,Air Asia,4.0
+2021-10-26,Air Asia,5.0
+2022-01-07,Air Asia,5.0
+2022-01-08,Air Asia,6.0
+2022-02-11,Air Asia,3.0
+2022-02-23,Air Asia,4.0
+2022-02-25,Air Asia,3.0
+2022-02-26,Air Asia,4.0
+2022-03-11,Air Asia,2.0
+2022-03-27,Air Asia,3.0
+2022-03-31,Air Asia,4.0
+2022-04-01,Air Asia,4.0
+2023-03-10,Air Asia,5.0
+2023-03-24,Air Asia,4.0
+2023-03-25,Air Asia,3.0
+2023-04-04,Air Asia,4.0
+2023-04-27,Air Asia,5.0
+2023-05-23,Air Asia,3.0
+2023-07-11,Air Asia,4.0
+2023-07-12,Air Asia,5.0
+2024-10-08,Air Asia,3.0
+2024-10-12,Air Asia,3.0
+2024-10-17,Air Asia,5.0
+2024-10-22,Air Asia,4.0
+2024-10-23,Air Asia,4.0
+2024-10-30,Air Asia,5.0
+2024-10-31,Air Asia,5.0
+2024-11-01,Air Asia,5.0
+2024-11-02,Air Asia,5.0
+2024-11-05,Air Asia,7.0
+2024-11-06,Air Asia,7.0
+2024-11-07,Air Asia,8.0
+2024-11-08,Air Asia,8.0
+2024-11-09,Air Asia,9.0
+2024-11-10,Air Asia,9.0
+2024-11-11,Air Asia,9.0
+2025-11-20,Air Asia,1.0
+2025-11-25,Air Asia,2.0
+2023-11-20,Air India Express,6.0
+2024-01-01,Air India Express,5.0
+2024-01-02,Air India Express,9.0
+2024-01-06,Air India Express,4.0
+2024-01-08,Air India Express,6.0
+2024-01-16,Air India Express,7.0
+2024-01-26,Air India Express,6.0
+2024-01-28,Air India Express,8.0
+2024-01-30,Air India Express,6.0
+2024-02-03,Air India Express,5.0
+2024-02-06,Air India Express,5.0
+2024-02-18,Air India Express,6.0
+2024-02-19,Air India Express,7.0
+2024-05-11,Air India Express,7.0
+2024-05-12,Air India Express,12.0
+2024-05-15,Air India Express,5.0
+2024-05-22,Air India Express,9.0
+2024-06-21,Air India Express,5.0
+2024-06-22,Air India Express,9.0
+2024-06-25,Air India Express,12.0
+2024-07-05,Air India Express,6.0
+2024-07-07,Air India Express,8.0
+2024-07-09,Air India Express,11.0
+2024-07-12,Air India Express,10.0
+2024-07-15,Air India Express,10.0
+2024-07-26,Air India Express,5.0
+2024-07-27,Air India Express,7.0
+2024-08-11,Air India Express,6.0
+2024-10-02,Air India Express,5.0
+2024-10-10,Air India Express,4.0
+2024-10-14,Air India Express,4.0
+2024-10-15,Air India Express,4.0
+2024-10-16,Air India Express,11.0
+2024-10-23,Air India Express,5.0
+2024-10-24,Air India Express,10.0
+2024-11-08,Air India Express,6.0
+2025-01-06,Air India Express,11.0
+2025-02-03,Air India Express,12.0
+2025-02-04,Air India Express,7.0
+2025-04-29,Air India Express,7.0
+2025-05-04,Air India Express,10.0
+2025-06-11,Air India Express,5.0
+2025-06-29,Air India Express,8.0
+2025-08-18,Air India Express,13.0
+2025-09-01,Air India Express,12.0
+2025-09-02,Air India Express,15.0
+2025-09-16,Air India Express,10.0
+2025-10-12,Air India Express,12.0
+2025-10-13,Air India Express,16.0
+2025-10-14,Air India Express,21.0
+2025-10-15,Air India Express,19.0
+2025-10-16,Air India Express,19.0
+2025-10-17,Air India Express,15.0
+2025-10-21,Air India Express,16.0
+2025-10-24,Air India Express,19.0
+2025-10-26,Air India Express,23.0
+2025-10-27,Air India Express,26.0
+2025-10-28,Air India Express,36.0
+2025-10-29,Air India Express,29.0
+2025-10-30,Air India Express,30.0
+2025-10-31,Air India Express,42.0
+2025-11-01,Air India Express,36.0
+2025-11-02,Air India Express,31.0
+2025-11-03,Air India Express,32.0
+2025-11-05,Air India Express,37.0
+2025-11-06,Air India Express,31.0
+2025-11-07,Air India Express,30.0
+2025-11-08,Air India Express,34.0
+2025-11-09,Air India Express,34.0
+2025-11-10,Air India Express,34.0
+2025-11-11,Air India Express,34.0
+2025-11-12,Air India Express,34.0
+2025-11-13,Air India Express,34.0
+2025-11-14,Air India Express,34.0
+2025-11-15,Air India Express,34.0
+2025-11-16,Air India Express,34.0
+2025-11-17,Air India Express,34.0
+2025-11-18,Air India Express,1.0
+2025-11-19,Air India Express,4.0
+2025-11-24,Air India Express,6.0
+2025-11-27,Air India Express,17.0
+2025-11-28,Air India Express,35.0
+2025-11-29,Air India Express,52.0
+2025-11-30,Air India Express,69.0
+2025-12-01,Air India Express,69.0
+2025-12-02,Air India Express,84.0
+2025-12-03,Air India Express,69.0
+2025-12-07,Air India Express,90.0
+2025-12-08,Air India Express,89.0
+2025-12-09,Air India Express,104.0
+2025-12-10,Air India Express,68.0
+2025-12-11,Air India Express,54.0
+2025-12-12,Air India Express,14.0
+2025-12-13,Air India Express,13.0
+2025-12-14,Air India Express,15.0
+2025-12-16,Air India Express,61.0
+2025-12-17,Air India Express,36.0
+2025-12-18,Air India Express,22.0
+2025-12-19,Air India Express,54.0
+2025-12-20,Air India Express,51.0
+2025-12-21,Air India Express,31.0
+2025-12-22,Air India Express,32.0
+2025-12-23,Air India Express,38.0
+2025-12-24,Air India Express,20.0
+2025-12-28,Air India Express,40.0
+2025-12-29,Air India Express,24.0
+2026-01-01,Air India Express,15.0
+2026-01-02,Air India Express,24.0
+2026-01-03,Air India Express,39.0
+2026-01-04,Air India Express,27.0
+2026-01-05,Air India Express,18.0
+2026-01-06,Air India Express,31.0
+2026-01-07,Air India Express,45.0
+2026-01-08,Air India Express,28.0
+2026-01-21,Air India Express,17.0
+2026-01-27,Air India Express,20.0
+2026-02-14,Air India Express,19.0
+2026-02-15,Air India Express,18.0
+2026-02-17,Air India Express,18.0
+2021-07-29,Air India,43.0
+2021-07-30,Air India,55.0
+2021-08-03,Air India,44.0
+2021-08-04,Air India,49.0
+2021-08-05,Air India,45.0
+2021-08-06,Air India,51.0
+2021-08-07,Air India,52.0
+2021-08-09,Air India,37.0
+2021-08-10,Air India,39.0
+2021-08-12,Air India,31.0
+2021-08-13,Air India,28.0
+2021-08-14,Air India,21.0
+2021-08-15,Air India,27.0
+2021-08-16,Air India,17.0
+2021-08-17,Air India,17.0
+2021-08-18,Air India,19.0
+2021-08-19,Air India,17.0
+2021-08-20,Air India,17.0
+2021-08-21,Air India,13.0
+2021-08-22,Air India,13.0
+2021-08-26,Air India,18.0
+2021-08-27,Air India,13.0
+2021-08-28,Air India,6.0
+2021-08-29,Air India,5.0
+2021-09-17,Air India,11.0
+2021-09-24,Air India,9.0
+2021-09-26,Air India,18.0
+2021-09-27,Air India,15.0
+2021-09-29,Air India,15.0
+2021-10-01,Air India,15.0
+2021-10-02,Air India,15.0
+2021-10-03,Air India,16.0
+2021-10-04,Air India,18.0
+2021-10-07,Air India,19.0
+2021-10-15,Air India,20.0
+2021-10-09,Air India,24.0
+2021-10-18,Air India,25.0
+2021-10-26,Air India,22.0
+2021-10-27,Air India,22.0
+2021-11-05,Air India,18.0
+2021-11-07,Air India,9.0
+2021-11-08,Air India,12.0
+2021-11-15,Air India,7.0
+2021-11-27,Air India,7.0
+2021-11-29,Air India,10.0
+2021-12-13,Air India,4.0
+2021-12-27,Air India,2.0
+2021-12-28,Air India,2.0
+2021-12-29,Air India,4.0
+2021-12-30,Air India,2.0
+2022-01-03,Air India,2.0
+2022-01-04,Air India,5.0
+2022-01-06,Air India,4.0
+2022-01-05,Air India,3.0
+2022-01-07,Air India,2.0
+2022-01-08,Air India,3.0
+2022-01-09,Air India,3.0
+2022-01-10,Air India,6.0
+2022-01-11,Air India,4.0
+2022-01-13,Air India,2.0
+2022-01-14,Air India,2.0
+2022-01-15,Air India,2.0
+2022-01-16,Air India,2.0
+2022-01-17,Air India,4.0
+2022-01-19,Air India,2.0
+2022-01-18,Air India,4.0
+2022-01-20,Air India,2.0
+2022-01-21,Air India,3.0
+2022-01-24,Air India,4.0
+2022-01-25,Air India,3.0
+2022-01-26,Air India,3.0
+2022-01-27,Air India,11.0
+2022-01-28,Air India,4.0
+2022-01-29,Air India,4.0
+2022-01-30,Air India,2.0
+2022-01-31,Air India,2.0
+2022-02-01,Air India,2.0
+2022-02-02,Air India,8.0
+2022-02-03,Air India,2.0
+2022-02-04,Air India,2.0
+2022-02-05,Air India,3.0
+2022-02-06,Air India,2.0
+2022-02-07,Air India,4.0
+2022-02-08,Air India,4.0
+2022-02-09,Air India,3.0
+2022-02-10,Air India,3.0
+2022-02-12,Air India,3.0
+2022-02-13,Air India,4.0
+2022-02-14,Air India,4.0
+2022-02-15,Air India,2.0
+2022-02-17,Air India,2.0
+2022-02-16,Air India,2.0
+2022-02-18,Air India,4.0
+2022-02-19,Air India,2.0
+2022-02-23,Air India,2.0
+2022-03-01,Air India,2.0
+2022-03-18,Air India,2.0
+2022-03-19,Air India,5.0
+2022-03-20,Air India,7.0
+2022-03-21,Air India,3.0
+2022-04-04,Air India,3.0
+2022-04-09,Air India,3.0
+2022-04-11,Air India,3.0
+2022-04-13,Air India,3.0
+2022-06-02,Air India,4.0
+2023-02-19,Air India,7.0
+2023-03-04,Air India,6.0
+2023-03-05,Air India,7.0
+2023-03-06,Air India,5.0
+2023-03-10,Air India,5.0
+2023-03-11,Air India,3.0
+2023-03-12,Air India,5.0
+2023-03-14,Air India,4.0
+2023-03-15,Air India,4.0
+2023-03-17,Air India,5.0
+2023-03-20,Air India,5.0
+2023-03-21,Air India,3.0
+2023-03-26,Air India,3.0
+2023-03-29,Air India,6.0
+2023-03-30,Air India,6.0
+2023-04-01,Air India,7.0
+2023-04-14,Air India,3.0
+2023-04-29,Air India,3.0
+2023-05-02,Air India,8.0
+2023-05-04,Air India,3.0
+2023-05-07,Air India,5.0
+2023-05-18,Air India,4.0
+2023-05-19,Air India,6.0
+2023-05-22,Air India,3.0
+2023-05-24,Air India,6.0
+2023-06-03,Air India,5.0
+2023-06-10,Air India,5.0
+2023-06-11,Air India,8.0
+2023-06-12,Air India,4.0
+2023-06-13,Air India,8.0
+2023-06-15,Air India,4.0
+2023-06-16,Air India,7.0
+2023-06-17,Air India,6.0
+2023-06-18,Air India,4.0
+2023-06-19,Air India,4.0
+2023-06-23,Air India,4.0
+2023-06-24,Air India,6.0
+2023-06-26,Air India,5.0
+2023-06-27,Air India,3.0
+2023-06-29,Air India,7.0
+2023-07-08,Air India,10.0
+2023-07-09,Air India,4.0
+2023-07-22,Air India,5.0
+2023-07-24,Air India,4.0
+2023-08-01,Air India,4.0
+2023-08-02,Air India,4.0
+2023-08-11,Air India,4.0
+2023-08-13,Air India,7.0
+2023-08-28,Air India,4.0
+2023-10-20,Air India,5.0
+2023-10-21,Air India,9.0
+2023-10-26,Air India,7.0
+2023-10-27,Air India,4.0
+2023-10-30,Air India,6.0
+2023-10-31,Air India,6.0
+2023-11-04,Air India,12.0
+2023-11-05,Air India,9.0
+2023-11-06,Air India,15.0
+2023-11-07,Air India,23.0
+2023-11-08,Air India,15.0
+2023-11-09,Air India,22.0
+2023-11-10,Air India,32.0
+2023-11-11,Air India,12.0
+2023-11-12,Air India,15.0
+2023-11-13,Air India,14.0
+2023-11-14,Air India,20.0
+2023-11-15,Air India,17.0
+2023-11-16,Air India,9.0
+2023-11-17,Air India,23.0
+2023-11-18,Air India,18.0
+2023-11-19,Air India,21.0
+2023-11-20,Air India,19.0
+2023-11-21,Air India,31.0
+2023-11-22,Air India,13.0
+2023-11-23,Air India,22.0
+2023-11-25,Air India,10.0
+2023-11-27,Air India,11.0
+2023-11-26,Air India,9.0
+2023-11-28,Air India,13.0
+2023-11-30,Air India,20.0
+2023-12-01,Air India,19.0
+2023-12-02,Air India,14.0
+2023-12-03,Air India,14.0
+2023-12-04,Air India,8.0
+2023-12-06,Air India,6.0
+2023-12-07,Air India,14.0
+2023-12-08,Air India,16.0
+2023-12-10,Air India,16.0
+2023-12-11,Air India,11.0
+2023-12-13,Air India,15.0
+2023-12-14,Air India,11.0
+2023-12-12,Air India,16.0
+2023-12-15,Air India,14.0
+2023-12-18,Air India,12.0
+2023-12-19,Air India,12.0
+2023-12-20,Air India,8.0
+2023-12-21,Air India,14.0
+2023-12-22,Air India,19.0
+2023-12-25,Air India,11.0
+2023-12-23,Air India,12.0
+2023-12-26,Air India,7.0
+2023-12-28,Air India,9.0
+2023-12-29,Air India,14.0
+2023-12-30,Air India,7.0
+2023-12-31,Air India,9.0
+2024-01-02,Air India,12.0
+2024-01-03,Air India,14.0
+2024-01-04,Air India,7.0
+2024-01-05,Air India,16.0
+2024-01-06,Air India,24.0
+2024-01-07,Air India,5.0
+2024-01-12,Air India,7.0
+2024-01-16,Air India,24.0
+2024-01-17,Air India,34.0
+2024-01-18,Air India,26.0
+2024-01-19,Air India,26.0
+2024-01-21,Air India,15.0
+2024-01-22,Air India,9.0
+2024-01-23,Air India,14.0
+2024-01-24,Air India,12.0
+2024-01-25,Air India,17.0
+2024-01-26,Air India,20.0
+2024-01-27,Air India,12.0
+2024-01-29,Air India,7.0
+2024-01-30,Air India,10.0
+2024-01-31,Air India,11.0
+2024-02-01,Air India,11.0
+2024-02-02,Air India,12.0
+2024-02-03,Air India,13.0
+2024-02-04,Air India,30.0
+2024-02-05,Air India,15.0
+2024-02-06,Air India,17.0
+2024-02-07,Air India,14.0
+2024-02-08,Air India,18.0
+2024-02-09,Air India,27.0
+2024-02-10,Air India,22.0
+2024-02-11,Air India,37.0
+2024-02-12,Air India,13.0
+2024-02-17,Air India,21.0
+2024-02-18,Air India,22.0
+2024-02-19,Air India,12.0
+2024-02-21,Air India,18.0
+2024-02-22,Air India,8.0
+2024-02-23,Air India,10.0
+2024-02-24,Air India,12.0
+2024-02-26,Air India,7.0
+2024-02-27,Air India,17.0
+2024-02-29,Air India,8.0
+2024-03-01,Air India,11.0
+2024-03-02,Air India,17.0
+2024-03-03,Air India,26.0
+2024-03-04,Air India,6.0
+2024-03-05,Air India,7.0
+2024-03-09,Air India,12.0
+2024-03-10,Air India,11.0
+2024-03-11,Air India,6.0
+2024-03-12,Air India,6.0
+2024-03-13,Air India,8.0
+2024-03-14,Air India,6.0
+2024-03-18,Air India,7.0
+2024-03-20,Air India,6.0
+2024-03-21,Air India,11.0
+2024-03-22,Air India,10.0
+2024-03-31,Air India,11.0
+2024-04-01,Air India,10.0
+2024-04-03,Air India,11.0
+2024-04-07,Air India,7.0
+2024-04-08,Air India,12.0
+2024-04-09,Air India,7.0
+2024-04-10,Air India,6.0
+2024-04-11,Air India,11.0
+2024-04-12,Air India,9.0
+2024-04-13,Air India,11.0
+2024-04-14,Air India,14.0
+2024-04-15,Air India,14.0
+2024-04-16,Air India,9.0
+2024-04-17,Air India,13.0
+2024-04-19,Air India,13.0
+2024-04-21,Air India,11.0
+2024-04-22,Air India,21.0
+2024-04-24,Air India,23.0
+2024-04-25,Air India,21.0
+2024-04-26,Air India,9.0
+2024-04-28,Air India,8.0
+2024-04-30,Air India,14.0
+2024-05-01,Air India,10.0
+2024-05-02,Air India,12.0
+2024-05-03,Air India,10.0
+2024-05-05,Air India,13.0
+2024-05-06,Air India,8.0
+2024-05-07,Air India,8.0
+2024-05-08,Air India,11.0
+2024-05-09,Air India,8.0
+2024-05-10,Air India,7.0
+2024-05-11,Air India,7.0
+2024-05-13,Air India,6.0
+2024-05-14,Air India,7.0
+2024-05-15,Air India,13.0
+2024-05-16,Air India,5.0
+2024-05-17,Air India,6.0
+2024-05-18,Air India,8.0
+2024-05-19,Air India,8.0
+2024-05-20,Air India,11.0
+2024-05-22,Air India,15.0
+2024-05-23,Air India,11.0
+2024-05-24,Air India,9.0
+2024-05-25,Air India,13.0
+2024-05-26,Air India,17.0
+2024-05-27,Air India,29.0
+2024-05-28,Air India,13.0
+2024-05-29,Air India,23.0
+2024-05-30,Air India,17.0
+2024-05-31,Air India,19.0
+2024-06-01,Air India,24.0
+2024-06-02,Air India,32.0
+2024-06-04,Air India,21.0
+2024-06-05,Air India,23.0
+2024-06-06,Air India,10.0
+2024-06-07,Air India,12.0
+2024-06-08,Air India,11.0
+2024-06-09,Air India,11.0
+2024-06-10,Air India,11.0
+2024-06-11,Air India,17.0
+2024-06-12,Air India,13.0
+2024-06-13,Air India,14.0
+2024-06-14,Air India,10.0
+2024-06-15,Air India,9.0
+2024-06-16,Air India,17.0
+2024-06-17,Air India,12.0
+2024-06-18,Air India,15.0
+2024-06-19,Air India,7.0
+2024-06-20,Air India,10.0
+2024-06-21,Air India,7.0
+2024-06-22,Air India,11.0
+2024-06-23,Air India,17.0
+2024-06-24,Air India,13.0
+2024-06-25,Air India,11.0
+2024-06-26,Air India,8.0
+2024-06-29,Air India,15.0
+2024-07-01,Air India,9.0
+2024-07-02,Air India,11.0
+2024-07-03,Air India,11.0
+2024-07-06,Air India,6.0
+2024-07-08,Air India,9.0
+2024-07-09,Air India,10.0
+2024-07-10,Air India,8.0
+2024-07-11,Air India,6.0
+2024-07-14,Air India,10.0
+2024-07-15,Air India,8.0
+2024-07-18,Air India,4.0
+2024-07-19,Air India,10.0
+2024-07-20,Air India,7.0
+2024-07-21,Air India,6.0
+2024-07-22,Air India,7.0
+2024-07-23,Air India,8.0
+2024-07-24,Air India,8.0
+2024-07-26,Air India,9.0
+2024-07-27,Air India,8.0
+2024-07-28,Air India,5.0
+2024-07-31,Air India,7.0
+2024-08-06,Air India,7.0
+2024-08-08,Air India,9.0
+2024-08-11,Air India,6.0
+2024-08-14,Air India,9.0
+2024-08-16,Air India,11.0
+2024-08-18,Air India,7.0
+2024-08-31,Air India,5.0
+2024-09-18,Air India,9.0
+2024-09-19,Air India,4.0
+2024-09-21,Air India,5.0
+2024-09-29,Air India,5.0
+2024-10-02,Air India,7.0
+2024-10-03,Air India,6.0
+2024-10-06,Air India,6.0
+2024-10-09,Air India,6.0
+2024-10-11,Air India,5.0
+2024-10-17,Air India,4.0
+2024-10-19,Air India,9.0
+2024-10-20,Air India,7.0
+2024-10-21,Air India,11.0
+2024-10-24,Air India,4.0
+2024-10-26,Air India,13.0
+2024-10-27,Air India,13.0
+2024-10-28,Air India,6.0
+2024-10-29,Air India,10.0
+2024-11-01,Air India,7.0
+2024-11-02,Air India,6.0
+2024-11-05,Air India,8.0
+2024-11-07,Air India,8.0
+2024-11-10,Air India,8.0
+2024-11-12,Air India,4.0
+2024-11-13,Air India,5.0
+2024-11-14,Air India,5.0
+2024-11-15,Air India,6.0
+2024-11-25,Air India,7.0
+2024-11-26,Air India,7.0
+2024-11-27,Air India,16.0
+2024-11-28,Air India,9.0
+2024-11-29,Air India,18.0
+2024-11-30,Air India,25.0
+2024-12-01,Air India,11.0
+2024-12-02,Air India,9.0
+2024-12-03,Air India,13.0
+2024-12-04,Air India,12.0
+2024-12-05,Air India,9.0
+2024-12-07,Air India,9.0
+2024-12-08,Air India,13.0
+2024-12-09,Air India,7.0
+2024-12-10,Air India,17.0
+2024-12-12,Air India,17.0
+2024-12-13,Air India,10.0
+2024-12-14,Air India,13.0
+2024-12-15,Air India,25.0
+2024-12-16,Air India,26.0
+2024-12-17,Air India,25.0
+2024-12-18,Air India,30.0
+2024-12-19,Air India,23.0
+2024-12-20,Air India,17.0
+2024-12-21,Air India,29.0
+2024-12-22,Air India,36.0
+2024-12-23,Air India,21.0
+2024-12-24,Air India,21.0
+2024-12-25,Air India,26.0
+2024-12-26,Air India,23.0
+2024-12-27,Air India,19.0
+2024-12-28,Air India,20.0
+2024-12-29,Air India,25.0
+2024-12-30,Air India,22.0
+2025-01-01,Air India,22.0
+2025-01-02,Air India,20.0
+2025-01-03,Air India,21.0
+2025-01-04,Air India,28.0
+2025-01-05,Air India,27.0
+2025-01-06,Air India,24.0
+2025-01-07,Air India,27.0
+2025-01-28,Air India,15.0
+2025-01-29,Air India,14.0
+2025-01-30,Air India,14.0
+2025-01-31,Air India,8.0
+2025-02-01,Air India,19.0
+2025-02-02,Air India,26.0
+2025-02-03,Air India,24.0
+2025-02-04,Air India,29.0
+2025-02-05,Air India,22.0
+2025-02-06,Air India,17.0
+2025-02-07,Air India,11.0
+2025-02-09,Air India,14.0
+2025-02-10,Air India,14.0
+2025-02-11,Air India,9.0
+2025-02-12,Air India,8.0
+2025-02-13,Air India,13.0
+2025-02-14,Air India,9.0
+2025-02-15,Air India,23.0
+2025-02-16,Air India,20.0
+2025-02-17,Air India,10.0
+2025-02-18,Air India,14.0
+2025-02-19,Air India,15.0
+2025-02-20,Air India,17.0
+2025-02-21,Air India,18.0
+2025-02-22,Air India,20.0
+2025-02-23,Air India,30.0
+2025-02-24,Air India,20.0
+2025-02-25,Air India,16.0
+2025-02-26,Air India,12.0
+2025-02-27,Air India,16.0
+2025-03-03,Air India,12.0
+2025-03-04,Air India,12.0
+2025-03-05,Air India,13.0
+2025-03-06,Air India,18.0
+2025-03-07,Air India,17.0
+2025-03-08,Air India,31.0
+2025-03-09,Air India,23.0
+2025-03-10,Air India,23.0
+2025-03-11,Air India,18.0
+2025-03-12,Air India,16.0
+2025-03-13,Air India,12.0
+2025-03-14,Air India,15.0
+2025-03-15,Air India,19.0
+2025-03-16,Air India,16.0
+2025-03-17,Air India,19.0
+2025-03-18,Air India,13.0
+2025-03-19,Air India,16.0
+2025-03-20,Air India,21.0
+2025-03-21,Air India,21.0
+2025-03-22,Air India,28.0
+2025-03-23,Air India,27.0
+2025-03-24,Air India,22.0
+2025-03-25,Air India,16.0
+2025-03-26,Air India,20.0
+2025-03-27,Air India,7.0
+2025-03-28,Air India,9.0
+2025-03-30,Air India,12.0
+2025-03-31,Air India,18.0
+2025-04-01,Air India,14.0
+2025-04-02,Air India,9.0
+2025-04-03,Air India,10.0
+2025-04-07,Air India,13.0
+2025-04-08,Air India,12.0
+2025-04-09,Air India,12.0
+2025-04-10,Air India,13.0
+2025-04-11,Air India,14.0
+2025-04-12,Air India,17.0
+2025-04-13,Air India,24.0
+2025-04-14,Air India,27.0
+2025-04-15,Air India,27.0
+2025-04-20,Air India,14.0
+2025-04-21,Air India,13.0
+2025-04-22,Air India,18.0
+2025-04-23,Air India,16.0
+2025-04-24,Air India,7.0
+2025-04-25,Air India,20.0
+2025-04-26,Air India,11.0
+2025-04-27,Air India,16.0
+2025-04-28,Air India,12.0
+2025-04-29,Air India,15.0
+2025-04-30,Air India,9.0
+2025-05-01,Air India,15.0
+2025-05-02,Air India,13.0
+2025-05-03,Air India,16.0
+2025-05-04,Air India,19.0
+2025-05-05,Air India,16.0
+2025-05-06,Air India,20.0
+2025-05-07,Air India,10.0
+2025-05-08,Air India,11.0
+2025-05-09,Air India,6.0
+2025-05-10,Air India,9.0
+2025-05-11,Air India,21.0
+2025-05-12,Air India,26.0
+2025-05-13,Air India,13.0
+2025-05-14,Air India,14.0
+2025-05-15,Air India,17.0
+2025-05-16,Air India,14.0
+2025-05-17,Air India,17.0
+2025-05-18,Air India,26.0
+2025-05-19,Air India,26.0
+2025-05-20,Air India,17.0
+2025-05-21,Air India,20.0
+2025-05-22,Air India,11.0
+2025-05-23,Air India,18.0
+2025-05-24,Air India,17.0
+2025-05-25,Air India,21.0
+2025-05-26,Air India,21.0
+2025-05-27,Air India,21.0
+2025-05-28,Air India,19.0
+2025-05-29,Air India,13.0
+2025-05-30,Air India,22.0
+2025-05-31,Air India,25.0
+2025-06-01,Air India,22.0
+2025-06-02,Air India,24.0
+2025-06-03,Air India,23.0
+2025-06-04,Air India,27.0
+2025-06-05,Air India,23.0
+2025-06-06,Air India,17.0
+2025-06-07,Air India,20.0
+2025-06-08,Air India,17.0
+2025-06-09,Air India,20.0
+2025-06-10,Air India,25.0
+2025-06-11,Air India,22.0
+2025-06-12,Air India,20.0
+2025-06-13,Air India,15.0
+2025-06-14,Air India,20.0
+2025-06-15,Air India,22.0
+2025-06-17,Air India,27.0
+2025-06-18,Air India,27.0
+2025-06-19,Air India,33.0
+2025-06-20,Air India,20.0
+2025-06-21,Air India,23.0
+2025-06-22,Air India,22.0
+2025-06-23,Air India,25.0
+2025-06-24,Air India,24.0
+2025-06-25,Air India,15.0
+2025-06-26,Air India,17.0
+2025-06-27,Air India,21.0
+2025-06-28,Air India,15.0
+2025-06-29,Air India,19.0
+2025-06-30,Air India,19.0
+2025-07-01,Air India,20.0
+2025-07-02,Air India,16.0
+2025-07-03,Air India,21.0
+2025-07-04,Air India,12.0
+2025-07-05,Air India,23.0
+2025-07-06,Air India,23.0
+2025-07-07,Air India,29.0
+2025-07-08,Air India,20.0
+2025-07-09,Air India,20.0
+2025-07-10,Air India,24.0
+2025-07-11,Air India,23.0
+2025-07-12,Air India,30.0
+2025-07-13,Air India,31.0
+2025-07-14,Air India,31.0
+2025-07-15,Air India,34.0
+2025-07-16,Air India,47.0
+2025-07-17,Air India,36.0
+2025-07-18,Air India,18.0
+2025-07-19,Air India,58.0
+2025-07-20,Air India,69.0
+2025-07-21,Air India,44.0
+2025-07-22,Air India,54.0
+2025-07-23,Air India,50.0
+2025-07-24,Air India,39.0
+2025-07-25,Air India,46.0
+2025-07-26,Air India,47.0
+2025-07-27,Air India,34.0
+2025-07-28,Air India,26.0
+2025-07-29,Air India,23.0
+2025-07-30,Air India,24.0
+2025-07-31,Air India,29.0
+2025-08-01,Air India,25.0
+2025-08-02,Air India,44.0
+2025-08-03,Air India,51.0
+2025-08-04,Air India,56.0
+2025-08-05,Air India,31.0
+2025-08-06,Air India,26.0
+2025-08-07,Air India,23.0
+2025-08-08,Air India,28.0
+2025-08-09,Air India,43.0
+2025-08-10,Air India,57.0
+2025-08-11,Air India,27.0
+2025-08-12,Air India,18.0
+2025-08-13,Air India,13.0
+2025-08-14,Air India,13.0
+2025-08-15,Air India,17.0
+2025-08-16,Air India,29.0
+2025-08-17,Air India,46.0
+2025-08-18,Air India,46.0
+2025-08-19,Air India,29.0
+2025-08-20,Air India,18.0
+2025-08-21,Air India,22.0
+2025-08-22,Air India,26.0
+2025-08-23,Air India,33.0
+2025-08-24,Air India,44.0
+2025-08-25,Air India,48.0
+2025-08-26,Air India,24.0
+2025-08-27,Air India,34.0
+2025-08-28,Air India,24.0
+2025-08-29,Air India,20.0
+2025-08-30,Air India,37.0
+2025-08-31,Air India,56.0
+2025-09-01,Air India,49.0
+2025-09-02,Air India,34.0
+2025-09-03,Air India,34.0
+2025-09-04,Air India,33.0
+2025-09-05,Air India,24.0
+2025-09-06,Air India,29.0
+2025-09-07,Air India,39.0
+2025-09-08,Air India,24.0
+2025-09-09,Air India,25.0
+2025-09-10,Air India,19.0
+2025-09-11,Air India,24.0
+2025-09-12,Air India,39.0
+2025-09-13,Air India,38.0
+2025-09-14,Air India,48.0
+2025-09-15,Air India,46.0
+2025-09-16,Air India,36.0
+2025-09-17,Air India,17.0
+2025-09-18,Air India,19.0
+2025-09-19,Air India,13.0
+2025-09-20,Air India,21.0
+2025-09-21,Air India,20.0
+2025-09-22,Air India,25.0
+2025-09-23,Air India,13.0
+2025-09-25,Air India,11.0
+2025-09-26,Air India,20.0
+2025-09-27,Air India,19.0
+2025-09-28,Air India,27.0
+2025-09-29,Air India,18.0
+2025-09-30,Air India,16.0
+2025-10-01,Air India,16.0
+2025-10-02,Air India,24.0
+2025-10-03,Air India,14.0
+2025-10-04,Air India,23.0
+2025-10-05,Air India,38.0
+2025-10-06,Air India,34.0
+2025-10-07,Air India,27.0
+2025-10-08,Air India,17.0
+2025-10-09,Air India,13.0
+2025-10-10,Air India,22.0
+2025-10-11,Air India,24.0
+2025-10-12,Air India,28.0
+2025-10-13,Air India,23.0
+2025-10-14,Air India,40.0
+2025-10-15,Air India,32.0
+2025-10-16,Air India,19.0
+2025-10-17,Air India,18.0
+2025-10-18,Air India,32.0
+2025-10-19,Air India,36.0
+2025-10-20,Air India,46.0
+2025-10-21,Air India,42.0
+2025-10-22,Air India,21.0
+2025-10-23,Air India,32.0
+2025-10-24,Air India,28.0
+2025-10-25,Air India,51.0
+2025-10-26,Air India,54.0
+2025-10-27,Air India,49.0
+2025-10-28,Air India,42.0
+2025-10-29,Air India,52.0
+2025-10-30,Air India,59.0
+2025-10-31,Air India,46.0
+2025-11-01,Air India,45.0
+2025-11-02,Air India,46.0
+2025-11-03,Air India,43.0
+2025-11-04,Air India,24.0
+2025-11-05,Air India,37.0
+2025-11-06,Air India,20.0
+2025-11-07,Air India,37.0
+2025-11-08,Air India,32.0
+2025-11-09,Air India,32.0
+2025-11-10,Air India,32.0
+2025-11-11,Air India,32.0
+2025-11-12,Air India,32.0
+2025-11-13,Air India,32.0
+2025-11-14,Air India,32.0
+2025-11-15,Air India,32.0
+2025-11-16,Air India,32.0
+2025-11-17,Air India,32.0
+2025-11-18,Air India,6.0
+2025-11-19,Air India,3.0
+2025-11-20,Air India,2.0
+2025-11-21,Air India,1.0
+2025-11-22,Air India,1.0
+2025-11-23,Air India,1.0
+2025-11-24,Air India,5.0
+2025-11-25,Air India,4.0
+2025-11-27,Air India,32.0
+2025-11-28,Air India,20.0
+2025-11-29,Air India,27.0
+2025-11-30,Air India,21.0
+2025-12-01,Air India,33.0
+2025-12-02,Air India,33.0
+2025-12-03,Air India,50.0
+2025-12-07,Air India,55.0
+2025-12-08,Air India,71.0
+2025-12-09,Air India,68.0
+2025-12-10,Air India,62.0
+2025-12-11,Air India,56.0
+2025-12-12,Air India,33.0
+2025-12-13,Air India,42.0
+2025-12-14,Air India,30.0
+2025-12-15,Air India,41.0
+2025-12-16,Air India,92.0
+2025-12-17,Air India,65.0
+2025-12-18,Air India,55.0
+2025-12-19,Air India,76.0
+2025-12-20,Air India,64.0
+2025-12-21,Air India,58.0
+2025-12-22,Air India,43.0
+2025-12-23,Air India,27.0
+2025-12-24,Air India,23.0
+2025-12-25,Air India,33.0
+2025-12-26,Air India,27.0
+2025-12-27,Air India,26.0
+2025-12-28,Air India,34.0
+2025-12-29,Air India,27.0
+2025-12-30,Air India,36.0
+2025-12-31,Air India,47.0
+2026-01-01,Air India,31.0
+2026-01-02,Air India,45.0
+2026-01-03,Air India,71.0
+2026-01-04,Air India,49.0
+2026-01-05,Air India,39.0
+2026-01-06,Air India,69.0
+2026-01-07,Air India,75.0
+2026-01-08,Air India,57.0
+2026-01-09,Air India,52.0
+2026-01-10,Air India,37.0
+2026-01-11,Air India,67.0
+2026-01-12,Air India,40.0
+2026-01-13,Air India,35.0
+2026-01-14,Air India,27.0
+2026-01-15,Air India,35.0
+2026-01-16,Air India,29.0
+2026-01-17,Air India,39.0
+2026-01-18,Air India,41.0
+2026-01-19,Air India,35.0
+2026-01-20,Air India,31.0
+2026-01-21,Air India,35.0
+2026-01-22,Air India,21.0
+2026-01-23,Air India,18.0
+2026-01-25,Air India,18.0
+2026-01-26,Air India,25.0
+2026-01-27,Air India,26.0
+2026-01-28,Air India,22.0
+2026-01-30,Air India,30.0
+2026-01-31,Air India,22.0
+2026-02-01,Air India,30.0
+2026-02-02,Air India,26.0
+2026-02-03,Air India,34.0
+2026-02-04,Air India,30.0
+2026-02-05,Air India,28.0
+2026-02-06,Air India,28.0
+2026-02-07,Air India,33.0
+2026-02-08,Air India,27.0
+2026-02-09,Air India,30.0
+2026-02-10,Air India,31.0
+2026-02-11,Air India,34.0
+2026-02-12,Air India,29.0
+2026-02-13,Air India,30.0
+2026-02-14,Air India,24.0
+2026-02-16,Air India,26.0
+2026-02-17,Air India,26.0
+2026-02-18,Air India,31.0
+2026-02-19,Air India,30.0
+2026-02-20,Air India,27.0
+2026-02-21,Air India,25.0
+2026-02-22,Air India,18.0
+2026-02-23,Air India,18.0
+2026-02-24,Air India,25.0
+2026-02-25,Air India,32.0
+2026-02-26,Air India,29.0
+2026-02-27,Air India,25.0
+2026-02-28,Air India,22.0
+2026-03-01,Air India,20.0
+2026-03-02,Air India,29.0
+2026-03-03,Air India,31.0
+2026-03-04,Air India,42.0
+2026-03-05,Air India,33.0
+2026-03-06,Air India,32.0
+2026-03-07,Air India,37.0
+2026-03-08,Air India,29.0
+2026-03-09,Air India,42.0
+2026-03-10,Air India,40.0
+2026-03-11,Air India,40.0
+2026-03-12,Air India,22.0
+2026-03-13,Air India,32.0
+2026-03-14,Air India,43.0
+2026-03-15,Air India,39.0
+2026-03-16,Air India,50.0
+2026-03-17,Air India,18.0
+2026-03-18,Air India,29.0
+2026-03-19,Air India,24.0
+2026-03-20,Air India,34.0
+2026-03-21,Air India,37.0
+2026-03-22,Air India,26.0
+2026-03-23,Air India,36.0
+2026-03-24,Air India,42.0
+2026-03-25,Air India,28.0
+2026-03-26,Air India,34.0
+2026-03-27,Air India,30.0
+2026-03-28,Air India,36.0
+2026-03-29,Air India,38.0
+2026-03-30,Air India,47.0
+2026-03-31,Air India,40.0
+2026-04-01,Air India,44.0
+2026-04-02,Air India,33.0
+2026-04-03,Air India,48.0
+2026-04-04,Air India,39.0
+2026-04-05,Air India,29.0
+2026-04-06,Air India,38.0
+2026-04-07,Air India,38.0
+2026-04-08,Air India,28.0
+2026-04-09,Air India,51.0
+2026-04-11,Air India,31.0
+2026-04-12,Air India,30.0
+2026-04-13,Air India,32.0
+2026-04-14,Air India,37.0
+2026-04-15,Air India,37.0
+2026-04-16,Air India,32.0
+2026-04-17,Air India,50.0
+2026-04-18,Air India,43.0
+2026-04-19,Air India,40.0
+2026-04-20,Air India,34.0
+2026-04-21,Air India,29.0
+2026-04-22,Air India,33.0
+2026-04-23,Air India,39.0
+2026-04-24,Air India,44.0
+2026-04-25,Air India,45.0
+2026-04-26,Air India,41.0
+2026-04-27,Air India,31.0
+2026-04-28,Air India,28.0
+2026-04-29,Air India,34.0
+2026-04-30,Air India,36.0
+2026-05-01,Air India,47.0
+2026-05-02,Air India,17.0
+2026-05-03,Air India,31.0
+2026-05-05,Air India,47.0
+2026-05-04,Air India,41.0
+2026-05-06,Air India,36.0
+2026-05-07,Air India,85.0
+2026-05-08,Air India,56.0
+2026-05-09,Air India,49.0
+2026-05-10,Air India,48.0
+2026-05-11,Air India,49.0
+2026-05-12,Air India,47.0
+2026-05-13,Air India,48.0
+2026-05-14,Air India,51.0
+2026-05-15,Air India,59.0
+2026-05-16,Air India,60.0
+2026-05-17,Air India,65.0
+2026-05-18,Air India,54.0
+2026-05-19,Air India,56.0
+2026-05-20,Air India,66.0
+2026-05-21,Air India,64.0
+2026-05-22,Air India,52.0
+2026-05-23,Air India,43.0
+2026-05-25,Air India,27.0
+2026-05-26,Air India,46.0
+2026-05-27,Air India,38.0
+2026-05-28,Air India,53.0
+2026-05-29,Air India,41.0
+2026-05-30,Air India,42.0
+2026-05-31,Air India,45.0
+2026-06-01,Air India,52.0
+2026-06-02,Air India,36.0
+2026-06-03,Air India,35.0
+2026-06-04,Air India,44.0
+2026-06-08,Air India,36.0
+2026-06-09,Air India,44.0
+2026-06-10,Air India,49.0
+2026-06-11,Air India,49.0
+2026-06-12,Air India,26.0
+2026-06-13,Air India,22.0
+2026-06-14,Air India,26.0
+2026-06-17,Air India,18.0
+2026-06-18,Air India,31.0
+2026-06-19,Air India,30.0
+2026-06-20,Air India,36.0
+2026-06-21,Air India,38.0
+2026-06-22,Air India,38.0
+2026-06-23,Air India,28.0
+2026-06-24,Air India,25.0
+2026-06-26,Air India,18.0
+2026-06-27,Air India,17.0
+2026-06-28,Air India,12.0
+2026-06-29,Air India,21.0
+2026-06-30,Air India,34.0
+2026-07-01,Air India,18.0
+2026-07-02,Air India,20.0
+2026-07-03,Air India,26.0
+2026-07-04,Air India,31.0
+2026-07-05,Air India,35.0
+2023-10-30,Aix Connect,4.0
+2023-03-19,Akasa Air,5.0
+2023-04-07,Akasa Air,5.0
+2023-04-22,Akasa Air,6.0
+2023-04-23,Akasa Air,6.0
+2023-04-24,Akasa Air,7.0
+2023-04-25,Akasa Air,3.0
+2023-04-28,Akasa Air,3.0
+2023-04-29,Akasa Air,4.0
+2023-04-30,Akasa Air,4.0
+2023-05-01,Akasa Air,5.0
+2023-05-03,Akasa Air,4.0
+2023-05-04,Akasa Air,4.0
+2023-05-05,Akasa Air,6.0
+2023-05-06,Akasa Air,10.0
+2023-05-07,Akasa Air,10.0
+2023-05-08,Akasa Air,5.0
+2023-05-09,Akasa Air,3.0
+2023-05-20,Akasa Air,4.0
+2023-05-21,Akasa Air,4.0
+2023-05-22,Akasa Air,5.0
+2023-05-23,Akasa Air,4.0
+2023-05-24,Akasa Air,6.0
+2023-05-25,Akasa Air,4.0
+2023-05-29,Akasa Air,4.0
+2023-06-04,Akasa Air,6.0
+2023-06-05,Akasa Air,6.0
+2023-06-06,Akasa Air,12.0
+2023-06-07,Akasa Air,11.0
+2023-06-08,Akasa Air,14.0
+2023-06-09,Akasa Air,17.0
+2023-06-10,Akasa Air,14.0
+2023-06-11,Akasa Air,13.0
+2023-06-14,Akasa Air,5.0
+2023-06-15,Akasa Air,5.0
+2023-06-16,Akasa Air,11.0
+2023-06-17,Akasa Air,17.0
+2023-06-23,Akasa Air,4.0
+2023-06-24,Akasa Air,7.0
+2023-06-25,Akasa Air,8.0
+2023-06-26,Akasa Air,8.0
+2023-07-04,Akasa Air,4.0
+2023-07-05,Akasa Air,6.0
+2023-07-08,Akasa Air,6.0
+2023-07-09,Akasa Air,8.0
+2023-07-11,Akasa Air,3.0
+2023-07-18,Akasa Air,3.0
+2023-07-22,Akasa Air,4.0
+2023-07-23,Akasa Air,4.0
+2023-07-29,Akasa Air,10.0
+2023-07-30,Akasa Air,13.0
+2023-07-31,Akasa Air,10.0
+2023-08-01,Akasa Air,5.0
+2023-08-02,Akasa Air,6.0
+2023-08-03,Akasa Air,8.0
+2023-08-04,Akasa Air,14.0
+2023-08-05,Akasa Air,16.0
+2023-08-06,Akasa Air,18.0
+2023-08-07,Akasa Air,6.0
+2023-08-08,Akasa Air,13.0
+2023-08-09,Akasa Air,10.0
+2023-08-10,Akasa Air,12.0
+2023-08-11,Akasa Air,17.0
+2023-08-13,Akasa Air,13.0
+2023-08-28,Akasa Air,6.0
+2023-10-19,Akasa Air,5.0
+2023-10-21,Akasa Air,7.0
+2023-11-02,Akasa Air,6.0
+2023-11-14,Akasa Air,4.0
+2023-11-15,Akasa Air,6.0
+2023-11-16,Akasa Air,5.0
+2023-11-22,Akasa Air,4.0
+2023-11-25,Akasa Air,5.0
+2023-11-27,Akasa Air,5.0
+2023-11-26,Akasa Air,6.0
+2023-12-12,Akasa Air,6.0
+2023-12-18,Akasa Air,5.0
+2023-12-20,Akasa Air,8.0
+2023-12-21,Akasa Air,6.0
+2023-12-22,Akasa Air,7.0
+2023-12-25,Akasa Air,9.0
+2023-12-23,Akasa Air,8.0
+2023-12-27,Akasa Air,6.0
+2023-12-31,Akasa Air,7.0
+2024-01-01,Akasa Air,7.0
+2024-01-02,Akasa Air,7.0
+2024-01-18,Akasa Air,6.0
+2024-01-19,Akasa Air,6.0
+2024-01-22,Akasa Air,7.0
+2024-01-26,Akasa Air,7.0
+2024-01-29,Akasa Air,5.0
+2024-02-02,Akasa Air,5.0
+2024-02-14,Akasa Air,11.0
+2024-02-21,Akasa Air,6.0
+2024-02-24,Akasa Air,6.0
+2024-02-25,Akasa Air,7.0
+2024-02-26,Akasa Air,7.0
+2024-02-28,Akasa Air,6.0
+2024-03-01,Akasa Air,4.0
+2024-03-14,Akasa Air,6.0
+2024-03-15,Akasa Air,9.0
+2024-03-18,Akasa Air,8.0
+2024-06-05,Akasa Air,5.0
+2024-06-18,Akasa Air,5.0
+2024-06-23,Akasa Air,7.0
+2024-06-26,Akasa Air,6.0
+2024-07-01,Akasa Air,6.0
+2024-07-03,Akasa Air,11.0
+2024-07-04,Akasa Air,12.0
+2024-07-05,Akasa Air,9.0
+2024-07-06,Akasa Air,10.0
+2024-07-07,Akasa Air,10.0
+2024-07-08,Akasa Air,17.0
+2024-07-11,Akasa Air,5.0
+2024-07-12,Akasa Air,8.0
+2024-07-13,Akasa Air,9.0
+2024-07-14,Akasa Air,8.0
+2024-07-16,Akasa Air,5.0
+2024-07-17,Akasa Air,5.0
+2024-07-18,Akasa Air,7.0
+2024-07-19,Akasa Air,9.0
+2024-07-20,Akasa Air,5.0
+2024-07-21,Akasa Air,7.0
+2024-07-30,Akasa Air,8.0
+2024-08-01,Akasa Air,7.0
+2024-08-03,Akasa Air,7.0
+2024-08-04,Akasa Air,8.0
+2024-08-05,Akasa Air,12.0
+2024-08-10,Akasa Air,6.0
+2024-08-11,Akasa Air,7.0
+2024-08-12,Akasa Air,6.0
+2024-08-13,Akasa Air,8.0
+2024-08-14,Akasa Air,5.0
+2024-08-15,Akasa Air,5.0
+2024-08-16,Akasa Air,7.0
+2024-08-17,Akasa Air,8.0
+2024-08-18,Akasa Air,7.0
+2024-09-22,Akasa Air,5.0
+2024-09-28,Akasa Air,4.0
+2024-09-29,Akasa Air,7.0
+2024-09-30,Akasa Air,6.0
+2024-10-01,Akasa Air,5.0
+2024-10-02,Akasa Air,57.0
+2024-10-03,Akasa Air,10.0
+2024-10-04,Akasa Air,12.0
+2024-10-05,Akasa Air,12.0
+2024-10-06,Akasa Air,12.0
+2024-10-07,Akasa Air,15.0
+2024-10-08,Akasa Air,16.0
+2024-10-09,Akasa Air,8.0
+2024-10-10,Akasa Air,8.0
+2024-10-11,Akasa Air,8.0
+2024-10-12,Akasa Air,8.0
+2024-10-13,Akasa Air,8.0
+2024-10-14,Akasa Air,10.0
+2024-10-15,Akasa Air,10.0
+2024-10-16,Akasa Air,11.0
+2024-10-17,Akasa Air,12.0
+2024-10-18,Akasa Air,13.0
+2024-10-19,Akasa Air,14.0
+2024-10-20,Akasa Air,14.0
+2024-10-21,Akasa Air,13.0
+2024-10-22,Akasa Air,14.0
+2024-10-23,Akasa Air,10.0
+2024-10-30,Akasa Air,4.0
+2024-10-31,Akasa Air,5.0
+2024-11-03,Akasa Air,6.0
+2024-11-04,Akasa Air,7.0
+2024-11-05,Akasa Air,7.0
+2024-11-06,Akasa Air,7.0
+2024-11-07,Akasa Air,8.0
+2024-11-08,Akasa Air,6.0
+2024-11-09,Akasa Air,7.0
+2024-11-10,Akasa Air,6.0
+2024-11-11,Akasa Air,9.0
+2024-11-12,Akasa Air,8.0
+2024-11-13,Akasa Air,11.0
+2024-11-14,Akasa Air,11.0
+2024-11-15,Akasa Air,8.0
+2024-11-16,Akasa Air,8.0
+2024-11-17,Akasa Air,9.0
+2024-11-18,Akasa Air,9.0
+2024-11-19,Akasa Air,9.0
+2024-11-20,Akasa Air,8.0
+2024-11-21,Akasa Air,9.0
+2024-11-22,Akasa Air,10.0
+2024-11-23,Akasa Air,11.0
+2024-11-24,Akasa Air,14.0
+2024-11-25,Akasa Air,16.0
+2024-11-26,Akasa Air,13.0
+2024-11-27,Akasa Air,14.0
+2024-11-28,Akasa Air,15.0
+2024-11-29,Akasa Air,13.0
+2024-11-30,Akasa Air,16.0
+2024-12-01,Akasa Air,14.0
+2024-12-02,Akasa Air,10.0
+2024-12-03,Akasa Air,12.0
+2024-12-04,Akasa Air,12.0
+2024-12-05,Akasa Air,14.0
+2024-12-06,Akasa Air,11.0
+2024-12-07,Akasa Air,10.0
+2024-12-08,Akasa Air,8.0
+2024-12-09,Akasa Air,10.0
+2024-12-10,Akasa Air,12.0
+2024-12-11,Akasa Air,13.0
+2024-12-12,Akasa Air,14.0
+2024-12-13,Akasa Air,13.0
+2024-12-14,Akasa Air,11.0
+2024-12-15,Akasa Air,11.0
+2024-12-16,Akasa Air,15.0
+2024-12-17,Akasa Air,15.0
+2024-12-18,Akasa Air,13.0
+2024-12-19,Akasa Air,8.0
+2024-12-20,Akasa Air,9.0
+2024-12-21,Akasa Air,10.0
+2024-12-22,Akasa Air,11.0
+2024-12-23,Akasa Air,11.0
+2024-12-24,Akasa Air,14.0
+2024-12-25,Akasa Air,18.0
+2024-12-26,Akasa Air,22.0
+2024-12-27,Akasa Air,18.0
+2024-12-28,Akasa Air,20.0
+2024-12-29,Akasa Air,15.0
+2024-12-30,Akasa Air,20.0
+2025-01-01,Akasa Air,20.0
+2025-01-02,Akasa Air,23.0
+2025-01-03,Akasa Air,22.0
+2025-01-04,Akasa Air,22.0
+2025-01-05,Akasa Air,25.0
+2025-01-06,Akasa Air,28.0
+2025-01-07,Akasa Air,23.0
+2025-01-28,Akasa Air,13.0
+2025-01-29,Akasa Air,15.0
+2025-01-30,Akasa Air,14.0
+2025-01-31,Akasa Air,8.0
+2025-02-01,Akasa Air,10.0
+2025-02-02,Akasa Air,12.0
+2025-02-03,Akasa Air,13.0
+2025-02-04,Akasa Air,14.0
+2025-02-05,Akasa Air,13.0
+2025-02-06,Akasa Air,14.0
+2025-02-07,Akasa Air,16.0
+2025-02-09,Akasa Air,17.0
+2025-02-11,Akasa Air,14.0
+2025-02-12,Akasa Air,16.0
+2025-02-13,Akasa Air,20.0
+2025-02-14,Akasa Air,13.0
+2025-02-15,Akasa Air,15.0
+2025-02-16,Akasa Air,16.0
+2025-02-17,Akasa Air,18.0
+2025-02-18,Akasa Air,19.0
+2025-02-19,Akasa Air,20.0
+2025-02-20,Akasa Air,19.0
+2025-02-21,Akasa Air,18.0
+2025-02-22,Akasa Air,24.0
+2025-02-23,Akasa Air,14.0
+2025-02-24,Akasa Air,14.0
+2025-02-25,Akasa Air,15.0
+2025-02-26,Akasa Air,17.0
+2025-02-27,Akasa Air,17.0
+2025-03-03,Akasa Air,8.0
+2025-03-06,Akasa Air,4.0
+2025-03-07,Akasa Air,4.0
+2025-03-08,Akasa Air,5.0
+2025-03-09,Akasa Air,7.0
+2025-03-10,Akasa Air,9.0
+2025-03-11,Akasa Air,10.0
+2025-03-12,Akasa Air,9.0
+2025-03-13,Akasa Air,9.0
+2025-03-14,Akasa Air,7.0
+2025-03-16,Akasa Air,7.0
+2025-03-17,Akasa Air,5.0
+2025-03-24,Akasa Air,5.0
+2025-03-25,Akasa Air,6.0
+2025-03-26,Akasa Air,7.0
+2025-03-27,Akasa Air,5.0
+2025-03-28,Akasa Air,6.0
+2025-03-30,Akasa Air,6.0
+2025-03-31,Akasa Air,6.0
+2025-04-01,Akasa Air,6.0
+2025-04-02,Akasa Air,8.0
+2025-04-03,Akasa Air,11.0
+2025-04-07,Akasa Air,13.0
+2025-04-08,Akasa Air,13.0
+2025-04-09,Akasa Air,11.0
+2025-04-10,Akasa Air,6.0
+2025-04-11,Akasa Air,7.0
+2025-04-12,Akasa Air,8.0
+2025-04-13,Akasa Air,8.0
+2025-04-14,Akasa Air,9.0
+2025-04-15,Akasa Air,13.0
+2025-04-16,Akasa Air,13.0
+2025-04-17,Akasa Air,15.0
+2025-04-18,Akasa Air,16.0
+2025-04-19,Akasa Air,17.0
+2025-04-20,Akasa Air,19.0
+2025-04-21,Akasa Air,21.0
+2025-04-22,Akasa Air,22.0
+2025-04-23,Akasa Air,21.0
+2025-04-24,Akasa Air,21.0
+2025-04-25,Akasa Air,19.0
+2025-04-26,Akasa Air,20.0
+2025-04-27,Akasa Air,20.0
+2025-04-28,Akasa Air,19.0
+2025-04-29,Akasa Air,17.0
+2025-04-30,Akasa Air,20.0
+2025-05-01,Akasa Air,23.0
+2025-05-02,Akasa Air,24.0
+2025-05-03,Akasa Air,24.0
+2025-05-04,Akasa Air,26.0
+2025-05-05,Akasa Air,23.0
+2025-05-06,Akasa Air,19.0
+2025-05-07,Akasa Air,12.0
+2025-05-08,Akasa Air,12.0
+2025-05-09,Akasa Air,10.0
+2025-05-10,Akasa Air,13.0
+2025-05-11,Akasa Air,13.0
+2025-05-12,Akasa Air,13.0
+2025-05-13,Akasa Air,16.0
+2025-05-14,Akasa Air,16.0
+2025-05-15,Akasa Air,14.0
+2025-05-16,Akasa Air,15.0
+2025-05-17,Akasa Air,17.0
+2025-05-18,Akasa Air,18.0
+2025-05-19,Akasa Air,21.0
+2025-05-20,Akasa Air,8.0
+2025-05-29,Akasa Air,10.0
+2025-05-30,Akasa Air,11.0
+2025-05-31,Akasa Air,13.0
+2025-06-01,Akasa Air,13.0
+2025-06-02,Akasa Air,20.0
+2025-06-03,Akasa Air,18.0
+2025-06-04,Akasa Air,20.0
+2025-06-05,Akasa Air,20.0
+2025-06-06,Akasa Air,21.0
+2025-06-07,Akasa Air,27.0
+2025-06-08,Akasa Air,28.0
+2025-06-09,Akasa Air,25.0
+2025-06-10,Akasa Air,21.0
+2025-06-11,Akasa Air,17.0
+2025-06-12,Akasa Air,17.0
+2025-06-13,Akasa Air,19.0
+2025-06-14,Akasa Air,14.0
+2025-06-15,Akasa Air,14.0
+2025-06-16,Akasa Air,16.0
+2025-06-17,Akasa Air,12.0
+2025-06-18,Akasa Air,13.0
+2025-06-19,Akasa Air,15.0
+2025-06-20,Akasa Air,14.0
+2025-06-21,Akasa Air,18.0
+2025-06-22,Akasa Air,19.0
+2025-06-23,Akasa Air,18.0
+2025-06-24,Akasa Air,17.0
+2025-06-25,Akasa Air,14.0
+2025-06-26,Akasa Air,15.0
+2025-06-27,Akasa Air,16.0
+2025-06-28,Akasa Air,18.0
+2025-06-29,Akasa Air,18.0
+2025-06-30,Akasa Air,9.0
+2025-07-01,Akasa Air,8.0
+2025-07-02,Akasa Air,12.0
+2025-07-03,Akasa Air,12.0
+2025-07-04,Akasa Air,13.0
+2025-07-05,Akasa Air,16.0
+2025-07-06,Akasa Air,23.0
+2025-07-07,Akasa Air,28.0
+2025-07-08,Akasa Air,28.0
+2025-07-09,Akasa Air,12.0
+2025-07-10,Akasa Air,12.0
+2025-07-11,Akasa Air,10.0
+2025-07-12,Akasa Air,11.0
+2025-07-13,Akasa Air,9.0
+2025-07-14,Akasa Air,9.0
+2025-07-15,Akasa Air,9.0
+2025-07-16,Akasa Air,10.0
+2025-07-17,Akasa Air,10.0
+2025-07-19,Akasa Air,12.0
+2025-07-26,Akasa Air,7.0
+2025-07-28,Akasa Air,11.0
+2025-07-29,Akasa Air,8.0
+2025-07-30,Akasa Air,10.0
+2025-07-31,Akasa Air,12.0
+2025-08-01,Akasa Air,12.0
+2025-08-02,Akasa Air,13.0
+2025-08-03,Akasa Air,16.0
+2025-08-13,Akasa Air,9.0
+2025-08-14,Akasa Air,9.0
+2025-08-16,Akasa Air,10.0
+2025-08-27,Akasa Air,17.0
+2025-08-28,Akasa Air,14.0
+2025-08-30,Akasa Air,9.0
+2025-09-10,Akasa Air,14.0
+2025-09-11,Akasa Air,10.0
+2025-09-22,Akasa Air,12.0
+2025-09-23,Akasa Air,10.0
+2025-09-26,Akasa Air,10.0
+2025-09-27,Akasa Air,12.0
+2025-09-28,Akasa Air,12.0
+2025-09-29,Akasa Air,10.0
+2025-10-02,Akasa Air,13.0
+2025-10-03,Akasa Air,13.0
+2025-10-04,Akasa Air,19.0
+2025-10-05,Akasa Air,28.0
+2025-10-06,Akasa Air,29.0
+2025-10-07,Akasa Air,31.0
+2025-10-08,Akasa Air,29.0
+2025-10-09,Akasa Air,33.0
+2025-10-10,Akasa Air,22.0
+2025-10-11,Akasa Air,18.0
+2025-10-15,Akasa Air,17.0
+2025-10-20,Akasa Air,21.0
+2025-10-21,Akasa Air,23.0
+2025-10-22,Akasa Air,22.0
+2025-10-23,Akasa Air,19.0
+2025-10-24,Akasa Air,22.0
+2025-10-25,Akasa Air,28.0
+2025-10-26,Akasa Air,41.0
+2025-10-27,Akasa Air,43.0
+2025-10-28,Akasa Air,44.0
+2025-10-29,Akasa Air,44.0
+2025-10-30,Akasa Air,43.0
+2025-10-31,Akasa Air,49.0
+2025-11-01,Akasa Air,59.0
+2025-11-02,Akasa Air,70.0
+2025-11-03,Akasa Air,54.0
+2025-11-04,Akasa Air,53.0
+2025-11-05,Akasa Air,65.0
+2025-11-06,Akasa Air,50.0
+2025-11-07,Akasa Air,60.0
+2025-11-08,Akasa Air,64.0
+2025-11-09,Akasa Air,64.0
+2025-11-10,Akasa Air,64.0
+2025-11-11,Akasa Air,64.0
+2025-11-12,Akasa Air,64.0
+2025-11-13,Akasa Air,64.0
+2025-11-14,Akasa Air,64.0
+2025-11-15,Akasa Air,64.0
+2025-11-16,Akasa Air,64.0
+2025-11-17,Akasa Air,64.0
+2025-11-18,Akasa Air,1.0
+2025-11-20,Akasa Air,3.0
+2025-11-21,Akasa Air,5.0
+2025-11-22,Akasa Air,5.0
+2025-11-23,Akasa Air,5.0
+2025-11-24,Akasa Air,2.0
+2025-11-25,Akasa Air,4.0
+2025-11-26,Akasa Air,1.0
+2025-11-27,Akasa Air,45.0
+2025-11-28,Akasa Air,55.0
+2025-11-29,Akasa Air,64.0
+2025-11-30,Akasa Air,64.0
+2025-12-01,Akasa Air,67.0
+2025-12-02,Akasa Air,73.0
+2025-12-03,Akasa Air,78.0
+2025-12-07,Akasa Air,99.0
+2025-12-08,Akasa Air,110.0
+2025-12-09,Akasa Air,117.0
+2025-12-10,Akasa Air,111.0
+2025-12-11,Akasa Air,95.0
+2025-12-12,Akasa Air,102.0
+2025-12-13,Akasa Air,84.0
+2025-12-14,Akasa Air,75.0
+2025-12-15,Akasa Air,67.0
+2025-12-16,Akasa Air,94.0
+2025-12-17,Akasa Air,77.0
+2025-12-18,Akasa Air,74.0
+2025-12-19,Akasa Air,77.0
+2025-12-20,Akasa Air,68.0
+2025-12-21,Akasa Air,38.0
+2025-12-22,Akasa Air,41.0
+2025-12-23,Akasa Air,25.0
+2025-12-24,Akasa Air,28.0
+2025-12-25,Akasa Air,27.0
+2025-12-26,Akasa Air,25.0
+2025-12-27,Akasa Air,24.0
+2025-12-28,Akasa Air,23.0
+2025-12-29,Akasa Air,25.0
+2025-12-30,Akasa Air,15.0
+2025-12-31,Akasa Air,25.0
+2026-01-01,Akasa Air,15.0
+2026-01-02,Akasa Air,29.0
+2026-01-03,Akasa Air,20.0
+2026-01-04,Akasa Air,25.0
+2026-01-05,Akasa Air,27.0
+2026-01-07,Akasa Air,40.0
+2026-01-08,Akasa Air,39.0
+2026-01-09,Akasa Air,43.0
+2026-01-10,Akasa Air,41.0
+2026-01-11,Akasa Air,40.0
+2026-01-12,Akasa Air,45.0
+2026-01-13,Akasa Air,44.0
+2026-01-14,Akasa Air,30.0
+2026-01-15,Akasa Air,16.0
+2026-01-16,Akasa Air,21.0
+2026-01-17,Akasa Air,21.0
+2026-01-18,Akasa Air,21.0
+2026-01-20,Akasa Air,29.0
+2026-01-21,Akasa Air,28.0
+2026-01-22,Akasa Air,25.0
+2026-01-23,Akasa Air,28.0
+2026-01-27,Akasa Air,21.0
+2026-01-28,Akasa Air,15.0
+2026-01-29,Akasa Air,22.0
+2026-01-30,Akasa Air,23.0
+2026-01-31,Akasa Air,21.0
+2026-02-01,Akasa Air,22.0
+2026-02-02,Akasa Air,22.0
+2026-02-03,Akasa Air,29.0
+2026-02-04,Akasa Air,31.0
+2026-02-05,Akasa Air,20.0
+2026-02-06,Akasa Air,14.0
+2026-02-07,Akasa Air,23.0
+2026-02-08,Akasa Air,18.0
+2026-02-09,Akasa Air,29.0
+2026-02-10,Akasa Air,22.0
+2026-02-11,Akasa Air,16.0
+2026-02-12,Akasa Air,17.0
+2026-02-13,Akasa Air,18.0
+2026-02-14,Akasa Air,16.0
+2026-02-15,Akasa Air,19.0
+2026-02-16,Akasa Air,25.0
+2026-02-17,Akasa Air,24.0
+2026-02-18,Akasa Air,30.0
+2026-02-19,Akasa Air,18.0
+2026-02-20,Akasa Air,19.0
+2026-02-21,Akasa Air,26.0
+2026-02-22,Akasa Air,22.0
+2026-02-23,Akasa Air,26.0
+2026-02-24,Akasa Air,24.0
+2026-02-25,Akasa Air,23.0
+2026-02-26,Akasa Air,26.0
+2026-02-27,Akasa Air,13.0
+2026-03-01,Akasa Air,16.0
+2026-03-02,Akasa Air,21.0
+2026-03-08,Akasa Air,24.0
+2026-03-26,Akasa Air,18.0
+2026-03-27,Akasa Air,22.0
+2026-03-28,Akasa Air,20.0
+2026-04-02,Akasa Air,21.0
+2026-04-03,Akasa Air,25.0
+2026-04-22,Akasa Air,24.0
+2026-05-20,Akasa Air,24.0
+2026-06-15,Akasa Air,17.0
+2021-12-29,Alliance Air,3.0
+2021-12-30,Alliance Air,3.0
+2022-01-03,Alliance Air,2.0
+2022-01-04,Alliance Air,2.0
+2022-01-06,Alliance Air,2.0
+2022-01-05,Alliance Air,2.0
+2022-01-28,Alliance Air,2.0
+2022-01-31,Alliance Air,2.0
+2022-02-12,Alliance Air,2.0
+2022-02-14,Alliance Air,2.0
+2022-02-17,Alliance Air,2.0
+2022-02-16,Alliance Air,2.0
+2022-02-21,Alliance Air,3.0
+2022-03-14,Alliance Air,3.0
+2022-03-18,Alliance Air,3.0
+2022-03-19,Alliance Air,3.0
+2022-03-20,Alliance Air,3.0
+2022-03-21,Alliance Air,3.0
+2022-03-22,Alliance Air,4.0
+2022-03-23,Alliance Air,4.0
+2022-03-25,Alliance Air,3.0
+2022-03-26,Alliance Air,3.0
+2022-03-28,Alliance Air,3.0
+2022-04-30,Alliance Air,6.0
+2022-05-13,Alliance Air,7.0
+2022-05-14,Alliance Air,8.0
+2022-05-15,Alliance Air,5.0
+2022-05-16,Alliance Air,9.0
+2022-06-02,Alliance Air,11.0
+2022-11-29,Alliance Air,9.0
+2022-12-03,Alliance Air,7.0
+2023-01-03,Alliance Air,13.0
+2023-01-07,Alliance Air,8.0
+2023-02-01,Alliance Air,3.0
+2023-02-02,Alliance Air,5.0
+2023-02-19,Alliance Air,7.0
+2023-02-18,Alliance Air,6.0
+2023-03-06,Alliance Air,4.0
+2023-03-09,Alliance Air,4.0
+2023-03-15,Alliance Air,3.0
+2023-03-17,Alliance Air,4.0
+2023-03-18,Alliance Air,4.0
+2023-03-19,Alliance Air,6.0
+2023-03-20,Alliance Air,9.0
+2023-03-21,Alliance Air,9.0
+2023-03-22,Alliance Air,9.0
+2023-03-23,Alliance Air,7.0
+2023-03-30,Alliance Air,6.0
+2023-03-31,Alliance Air,7.0
+2023-04-01,Alliance Air,7.0
+2023-04-02,Alliance Air,8.0
+2023-04-03,Alliance Air,8.0
+2023-04-04,Alliance Air,8.0
+2023-04-05,Alliance Air,4.0
+2023-04-06,Alliance Air,4.0
+2023-04-07,Alliance Air,5.0
+2023-04-08,Alliance Air,5.0
+2023-04-09,Alliance Air,6.0
+2023-04-10,Alliance Air,10.0
+2023-04-11,Alliance Air,15.0
+2023-04-12,Alliance Air,17.0
+2023-04-14,Alliance Air,6.0
+2023-04-15,Alliance Air,6.0
+2023-04-16,Alliance Air,8.0
+2023-04-17,Alliance Air,7.0
+2023-04-18,Alliance Air,4.0
+2023-04-19,Alliance Air,5.0
+2023-04-20,Alliance Air,4.0
+2023-04-21,Alliance Air,5.0
+2023-04-22,Alliance Air,7.0
+2023-04-23,Alliance Air,8.0
+2023-04-29,Alliance Air,3.0
+2023-04-30,Alliance Air,4.0
+2023-05-01,Alliance Air,5.0
+2023-05-02,Alliance Air,6.0
+2023-05-03,Alliance Air,7.0
+2023-05-04,Alliance Air,6.0
+2023-05-05,Alliance Air,7.0
+2023-05-06,Alliance Air,7.0
+2023-05-07,Alliance Air,8.0
+2023-05-08,Alliance Air,9.0
+2023-05-09,Alliance Air,4.0
+2023-05-10,Alliance Air,3.0
+2023-05-12,Alliance Air,8.0
+2023-05-13,Alliance Air,8.0
+2023-05-14,Alliance Air,9.0
+2023-05-15,Alliance Air,8.0
+2023-05-16,Alliance Air,5.0
+2023-05-17,Alliance Air,4.0
+2023-05-22,Alliance Air,4.0
+2023-05-24,Alliance Air,5.0
+2023-05-25,Alliance Air,4.0
+2023-05-26,Alliance Air,4.0
+2023-05-27,Alliance Air,6.0
+2023-05-28,Alliance Air,6.0
+2023-06-03,Alliance Air,5.0
+2023-06-04,Alliance Air,6.0
+2023-06-05,Alliance Air,5.0
+2023-06-10,Alliance Air,5.0
+2023-06-12,Alliance Air,6.0
+2023-06-14,Alliance Air,5.0
+2023-06-15,Alliance Air,6.0
+2023-06-16,Alliance Air,6.0
+2023-06-17,Alliance Air,6.0
+2023-06-18,Alliance Air,6.0
+2023-06-19,Alliance Air,6.0
+2023-06-23,Alliance Air,7.0
+2023-06-24,Alliance Air,9.0
+2023-06-25,Alliance Air,9.0
+2023-06-26,Alliance Air,6.0
+2023-06-27,Alliance Air,7.0
+2023-06-30,Alliance Air,7.0
+2023-07-01,Alliance Air,9.0
+2023-07-02,Alliance Air,9.0
+2023-07-03,Alliance Air,7.0
+2023-07-04,Alliance Air,7.0
+2023-07-05,Alliance Air,5.0
+2023-07-08,Alliance Air,5.0
+2023-07-09,Alliance Air,5.0
+2023-07-10,Alliance Air,5.0
+2023-07-11,Alliance Air,5.0
+2023-07-12,Alliance Air,5.0
+2023-07-14,Alliance Air,4.0
+2023-07-17,Alliance Air,4.0
+2023-07-19,Alliance Air,5.0
+2023-07-20,Alliance Air,5.0
+2023-07-21,Alliance Air,7.0
+2023-07-22,Alliance Air,9.0
+2023-07-23,Alliance Air,9.0
+2023-07-24,Alliance Air,6.0
+2023-07-26,Alliance Air,5.0
+2023-07-27,Alliance Air,4.0
+2023-07-28,Alliance Air,3.0
+2023-07-29,Alliance Air,3.0
+2023-07-30,Alliance Air,3.0
+2023-07-31,Alliance Air,9.0
+2023-08-01,Alliance Air,8.0
+2023-08-02,Alliance Air,5.0
+2023-08-03,Alliance Air,6.0
+2023-08-04,Alliance Air,3.0
+2023-08-05,Alliance Air,3.0
+2023-08-07,Alliance Air,4.0
+2023-08-09,Alliance Air,4.0
+2023-08-10,Alliance Air,5.0
+2023-08-11,Alliance Air,4.0
+2023-08-13,Alliance Air,5.0
+2023-08-14,Alliance Air,5.0
+2023-08-15,Alliance Air,5.0
+2023-08-28,Alliance Air,5.0
+2023-09-20,Alliance Air,5.0
+2023-10-13,Alliance Air,4.0
+2023-10-20,Alliance Air,5.0
+2023-10-21,Alliance Air,5.0
+2023-10-22,Alliance Air,6.0
+2023-10-23,Alliance Air,7.0
+2023-10-24,Alliance Air,9.0
+2023-10-25,Alliance Air,9.0
+2023-10-26,Alliance Air,8.0
+2023-10-27,Alliance Air,6.0
+2023-10-28,Alliance Air,8.0
+2023-10-29,Alliance Air,10.0
+2023-10-31,Alliance Air,4.0
+2023-11-01,Alliance Air,5.0
+2023-11-02,Alliance Air,7.0
+2023-11-04,Alliance Air,8.0
+2023-11-05,Alliance Air,7.0
+2023-11-11,Alliance Air,7.0
+2023-11-12,Alliance Air,7.0
+2023-11-13,Alliance Air,7.0
+2023-11-15,Alliance Air,7.0
+2023-11-16,Alliance Air,10.0
+2023-11-17,Alliance Air,7.0
+2023-11-19,Alliance Air,7.0
+2023-11-20,Alliance Air,6.0
+2023-11-21,Alliance Air,6.0
+2023-11-22,Alliance Air,5.0
+2023-11-23,Alliance Air,6.0
+2023-11-25,Alliance Air,7.0
+2023-11-27,Alliance Air,8.0
+2023-11-26,Alliance Air,7.0
+2023-11-30,Alliance Air,5.0
+2023-12-01,Alliance Air,5.0
+2023-12-04,Alliance Air,6.0
+2023-12-11,Alliance Air,5.0
+2023-12-12,Alliance Air,8.0
+2023-12-15,Alliance Air,4.0
+2023-12-16,Alliance Air,4.0
+2023-12-20,Alliance Air,6.0
+2023-12-25,Alliance Air,15.0
+2023-12-23,Alliance Air,7.0
+2023-12-28,Alliance Air,6.0
+2024-01-20,Alliance Air,8.0
+2024-01-21,Alliance Air,10.0
+2024-01-28,Alliance Air,6.0
+2024-02-14,Alliance Air,9.0
+2024-02-16,Alliance Air,8.0
+2024-02-17,Alliance Air,9.0
+2024-02-18,Alliance Air,11.0
+2024-02-19,Alliance Air,8.0
+2024-02-23,Alliance Air,5.0
+2024-02-25,Alliance Air,8.0
+2024-03-02,Alliance Air,6.0
+2024-03-03,Alliance Air,6.0
+2024-03-04,Alliance Air,6.0
+2024-03-07,Alliance Air,6.0
+2024-03-10,Alliance Air,7.0
+2024-03-12,Alliance Air,6.0
+2024-03-16,Alliance Air,5.0
+2024-03-17,Alliance Air,7.0
+2024-03-18,Alliance Air,9.0
+2024-03-19,Alliance Air,6.0
+2024-03-20,Alliance Air,6.0
+2024-03-21,Alliance Air,10.0
+2024-03-29,Alliance Air,8.0
+2024-03-30,Alliance Air,10.0
+2024-03-31,Alliance Air,11.0
+2024-04-01,Alliance Air,15.0
+2024-04-02,Alliance Air,9.0
+2024-04-03,Alliance Air,17.0
+2024-04-04,Alliance Air,18.0
+2024-04-05,Alliance Air,20.0
+2024-04-06,Alliance Air,22.0
+2024-04-07,Alliance Air,26.0
+2024-04-08,Alliance Air,12.0
+2024-04-09,Alliance Air,12.0
+2024-04-11,Alliance Air,8.0
+2024-04-12,Alliance Air,8.0
+2024-04-14,Alliance Air,12.0
+2024-04-18,Alliance Air,7.0
+2024-04-19,Alliance Air,7.0
+2024-04-20,Alliance Air,7.0
+2024-04-21,Alliance Air,9.0
+2024-04-22,Alliance Air,8.0
+2024-04-24,Alliance Air,9.0
+2024-04-25,Alliance Air,13.0
+2024-04-26,Alliance Air,8.0
+2024-04-27,Alliance Air,12.0
+2024-04-28,Alliance Air,12.0
+2024-04-30,Alliance Air,6.0
+2024-05-02,Alliance Air,10.0
+2024-05-03,Alliance Air,11.0
+2024-05-04,Alliance Air,12.0
+2024-05-05,Alliance Air,14.0
+2024-05-06,Alliance Air,8.0
+2024-05-07,Alliance Air,10.0
+2024-05-08,Alliance Air,6.0
+2024-05-12,Alliance Air,8.0
+2024-05-13,Alliance Air,8.0
+2024-05-18,Alliance Air,6.0
+2024-05-19,Alliance Air,6.0
+2024-05-27,Alliance Air,8.0
+2024-06-17,Alliance Air,5.0
+2024-06-19,Alliance Air,4.0
+2024-06-20,Alliance Air,5.0
+2024-07-01,Alliance Air,6.0
+2024-07-02,Alliance Air,6.0
+2024-07-05,Alliance Air,6.0
+2024-07-06,Alliance Air,9.0
+2024-07-07,Alliance Air,11.0
+2024-07-08,Alliance Air,12.0
+2024-07-09,Alliance Air,7.0
+2024-07-10,Alliance Air,6.0
+2024-07-22,Alliance Air,5.0
+2024-07-23,Alliance Air,7.0
+2024-07-24,Alliance Air,7.0
+2024-08-04,Alliance Air,8.0
+2024-08-07,Alliance Air,5.0
+2024-08-08,Alliance Air,5.0
+2024-08-12,Alliance Air,5.0
+2024-08-17,Alliance Air,6.0
+2024-08-18,Alliance Air,10.0
+2024-08-19,Alliance Air,14.0
+2024-09-01,Alliance Air,5.0
+2024-09-02,Alliance Air,5.0
+2024-09-03,Alliance Air,5.0
+2024-09-04,Alliance Air,5.0
+2024-09-05,Alliance Air,5.0
+2024-09-06,Alliance Air,5.0
+2024-09-07,Alliance Air,5.0
+2024-09-08,Alliance Air,5.0
+2024-09-09,Alliance Air,5.0
+2024-09-10,Alliance Air,5.0
+2024-09-12,Alliance Air,5.0
+2024-09-11,Alliance Air,5.0
+2024-09-13,Alliance Air,5.0
+2024-09-14,Alliance Air,5.0
+2024-09-15,Alliance Air,5.0
+2024-09-16,Alliance Air,5.0
+2024-09-17,Alliance Air,5.0
+2024-10-09,Alliance Air,4.0
+2024-10-10,Alliance Air,4.0
+2024-10-11,Alliance Air,6.0
+2024-10-12,Alliance Air,6.0
+2024-10-13,Alliance Air,6.0
+2024-10-14,Alliance Air,3.0
+2024-10-15,Alliance Air,4.0
+2024-10-16,Alliance Air,4.0
+2024-10-18,Alliance Air,5.0
+2024-10-19,Alliance Air,5.0
+2024-10-20,Alliance Air,5.0
+2024-10-21,Alliance Air,4.0
+2024-10-22,Alliance Air,4.0
+2024-10-25,Alliance Air,5.0
+2024-10-26,Alliance Air,6.0
+2024-10-27,Alliance Air,6.0
+2024-10-29,Alliance Air,5.0
+2024-10-30,Alliance Air,6.0
+2024-10-31,Alliance Air,6.0
+2024-11-01,Alliance Air,6.0
+2024-11-02,Alliance Air,6.0
+2024-11-03,Alliance Air,6.0
+2024-11-04,Alliance Air,7.0
+2024-11-05,Alliance Air,6.0
+2024-11-06,Alliance Air,6.0
+2024-11-07,Alliance Air,6.0
+2024-11-09,Alliance Air,6.0
+2024-11-10,Alliance Air,8.0
+2024-12-27,Alliance Air,5.0
+2024-12-28,Alliance Air,7.0
+2024-12-29,Alliance Air,8.0
+2025-02-01,Alliance Air,5.0
+2025-02-22,Alliance Air,4.0
+2025-02-23,Alliance Air,5.0
+2025-02-24,Alliance Air,4.0
+2025-03-23,Alliance Air,5.0
+2025-03-24,Alliance Air,5.0
+2025-03-25,Alliance Air,5.0
+2025-03-26,Alliance Air,6.0
+2025-03-27,Alliance Air,6.0
+2025-03-28,Alliance Air,6.0
+2025-03-30,Alliance Air,6.0
+2025-03-31,Alliance Air,6.0
+2025-04-03,Alliance Air,5.0
+2025-05-24,Alliance Air,6.0
+2025-06-05,Alliance Air,8.0
+2025-06-06,Alliance Air,8.0
+2025-06-07,Alliance Air,8.0
+2025-06-08,Alliance Air,8.0
+2025-06-09,Alliance Air,8.0
+2025-06-10,Alliance Air,8.0
+2025-06-12,Alliance Air,6.0
+2025-06-16,Alliance Air,5.0
+2025-10-25,Alliance Air,18.0
+2025-10-27,Alliance Air,22.0
+2025-11-18,Alliance Air,1.0
+2025-11-19,Alliance Air,1.0
+2025-11-21,Alliance Air,1.0
+2025-11-22,Alliance Air,1.0
+2025-11-23,Alliance Air,1.0
+2025-11-26,Alliance Air,2.0
+2021-07-29,GoAir,11.0
+2021-07-30,GoAir,16.0
+2021-08-03,GoAir,6.0
+2021-08-10,GoAir,8.0
+2021-10-04,GoAir,4.0
+2021-10-15,GoAir,4.0
+2021-10-18,GoAir,4.0
+2021-11-08,GoAir,5.0
+2021-11-29,GoAir,5.0
+2021-12-13,GoAir,6.0
+2021-12-26,GoAir,3.0
+2021-12-27,GoAir,7.0
+2021-12-28,GoAir,4.0
+2021-12-29,GoAir,4.0
+2021-12-31,GoAir,4.0
+2022-01-04,GoAir,3.0
+2022-01-05,GoAir,8.0
+2022-01-07,GoAir,6.0
+2022-01-08,GoAir,7.0
+2022-01-09,GoAir,11.0
+2022-01-10,GoAir,13.0
+2022-01-11,GoAir,5.0
+2022-01-14,GoAir,2.0
+2022-01-15,GoAir,2.0
+2022-01-16,GoAir,3.0
+2022-01-19,GoAir,5.0
+2022-01-18,GoAir,6.0
+2022-01-20,GoAir,2.0
+2022-01-21,GoAir,3.0
+2022-01-22,GoAir,7.0
+2022-01-23,GoAir,3.0
+2022-01-25,GoAir,6.0
+2022-01-26,GoAir,5.0
+2022-01-27,GoAir,4.0
+2022-01-30,GoAir,3.0
+2022-01-31,GoAir,2.0
+2022-02-01,GoAir,3.0
+2022-02-04,GoAir,4.0
+2022-02-05,GoAir,2.0
+2022-02-06,GoAir,3.0
+2022-02-07,GoAir,4.0
+2022-02-08,GoAir,5.0
+2022-02-10,GoAir,3.0
+2022-02-11,GoAir,3.0
+2022-02-13,GoAir,3.0
+2022-02-14,GoAir,2.0
+2022-02-15,GoAir,5.0
+2022-02-17,GoAir,5.0
+2022-02-16,GoAir,2.0
+2022-02-18,GoAir,6.0
+2022-02-19,GoAir,4.0
+2022-02-21,GoAir,8.0
+2022-02-23,GoAir,5.0
+2022-02-24,GoAir,5.0
+2022-02-25,GoAir,6.0
+2022-02-26,GoAir,3.0
+2022-03-01,GoAir,6.0
+2022-03-02,GoAir,4.0
+2022-03-10,GoAir,7.0
+2022-03-11,GoAir,9.0
+2022-03-14,GoAir,8.0
+2022-03-18,GoAir,8.0
+2022-03-19,GoAir,4.0
+2022-03-20,GoAir,4.0
+2022-03-21,GoAir,7.0
+2022-03-22,GoAir,3.0
+2022-03-23,GoAir,5.0
+2022-03-25,GoAir,4.0
+2022-03-26,GoAir,4.0
+2022-03-27,GoAir,3.0
+2022-03-28,GoAir,3.0
+2022-03-31,GoAir,5.0
+2022-04-01,GoAir,3.0
+2022-04-03,GoAir,11.0
+2022-04-04,GoAir,6.0
+2022-04-06,GoAir,3.0
+2022-04-05,GoAir,8.0
+2022-04-07,GoAir,5.0
+2022-04-08,GoAir,9.0
+2022-04-09,GoAir,10.0
+2022-04-10,GoAir,13.0
+2022-04-11,GoAir,5.0
+2022-04-13,GoAir,6.0
+2022-04-21,GoAir,4.0
+2022-05-11,GoAir,5.0
+2022-05-13,GoAir,3.0
+2022-05-15,GoAir,5.0
+2022-05-16,GoAir,4.0
+2023-01-03,GoAir,4.0
+2023-01-07,GoAir,7.0
+2023-02-01,GoAir,4.0
+2023-02-02,GoAir,3.0
+2023-02-19,GoAir,5.0
+2023-02-18,GoAir,7.0
+2023-03-09,GoAir,6.0
+2023-03-10,GoAir,5.0
+2023-03-11,GoAir,3.0
+2023-03-13,GoAir,9.0
+2023-03-15,GoAir,8.0
+2023-03-17,GoAir,6.0
+2023-03-18,GoAir,10.0
+2023-03-19,GoAir,7.0
+2023-03-20,GoAir,12.0
+2023-03-21,GoAir,6.0
+2023-03-22,GoAir,8.0
+2023-03-23,GoAir,7.0
+2023-03-24,GoAir,8.0
+2023-03-25,GoAir,9.0
+2023-03-26,GoAir,7.0
+2023-03-27,GoAir,9.0
+2023-03-28,GoAir,11.0
+2023-03-29,GoAir,5.0
+2023-03-31,GoAir,4.0
+2023-04-06,GoAir,4.0
+2023-04-07,GoAir,7.0
+2023-04-08,GoAir,5.0
+2023-04-10,GoAir,9.0
+2023-04-11,GoAir,8.0
+2023-04-12,GoAir,5.0
+2023-04-14,GoAir,10.0
+2023-04-15,GoAir,11.0
+2023-04-16,GoAir,14.0
+2023-04-17,GoAir,9.0
+2023-04-21,GoAir,5.0
+2023-04-24,GoAir,6.0
+2023-04-25,GoAir,9.0
+2023-04-26,GoAir,11.0
+2023-04-27,GoAir,9.0
+2023-04-28,GoAir,4.0
+2023-04-30,GoAir,4.0
+2023-05-01,GoAir,3.0
+2023-05-02,GoAir,27.0
+2023-05-03,GoAir,22.0
+2023-05-04,GoAir,5.0
+2023-05-05,GoAir,4.0
+2023-05-06,GoAir,6.0
+2023-05-07,GoAir,6.0
+2023-05-08,GoAir,16.0
+2023-05-09,GoAir,10.0
+2023-05-10,GoAir,10.0
+2023-05-11,GoAir,6.0
+2023-05-12,GoAir,16.0
+2023-05-13,GoAir,16.0
+2023-05-14,GoAir,16.0
+2023-05-15,GoAir,23.0
+2023-05-16,GoAir,11.0
+2023-05-17,GoAir,17.0
+2023-05-18,GoAir,16.0
+2023-05-19,GoAir,14.0
+2023-05-20,GoAir,6.0
+2023-05-21,GoAir,7.0
+2023-05-22,GoAir,6.0
+2023-05-23,GoAir,9.0
+2023-05-24,GoAir,20.0
+2023-05-25,GoAir,27.0
+2023-05-26,GoAir,25.0
+2023-05-27,GoAir,6.0
+2023-05-28,GoAir,7.0
+2023-05-29,GoAir,9.0
+2023-05-30,GoAir,7.0
+2023-06-02,GoAir,11.0
+2023-06-04,GoAir,7.0
+2023-06-05,GoAir,14.0
+2023-06-06,GoAir,12.0
+2023-06-07,GoAir,16.0
+2023-06-08,GoAir,9.0
+2023-06-09,GoAir,9.0
+2023-06-11,GoAir,7.0
+2023-06-12,GoAir,13.0
+2023-06-13,GoAir,9.0
+2023-06-14,GoAir,7.0
+2023-06-15,GoAir,6.0
+2023-06-16,GoAir,6.0
+2023-06-17,GoAir,5.0
+2023-06-18,GoAir,4.0
+2023-06-19,GoAir,6.0
+2023-06-23,GoAir,5.0
+2023-06-24,GoAir,5.0
+2023-06-25,GoAir,6.0
+2023-06-26,GoAir,5.0
+2023-06-27,GoAir,5.0
+2023-06-28,GoAir,7.0
+2023-06-29,GoAir,6.0
+2023-06-30,GoAir,5.0
+2023-07-01,GoAir,19.0
+2023-07-02,GoAir,5.0
+2023-07-03,GoAir,16.0
+2023-07-04,GoAir,6.0
+2023-07-05,GoAir,7.0
+2023-07-08,GoAir,5.0
+2023-07-10,GoAir,11.0
+2023-07-12,GoAir,6.0
+2023-07-13,GoAir,5.0
+2023-07-14,GoAir,8.0
+2023-07-15,GoAir,4.0
+2023-07-19,GoAir,7.0
+2023-07-20,GoAir,8.0
+2023-07-21,GoAir,8.0
+2023-07-22,GoAir,13.0
+2023-07-23,GoAir,15.0
+2023-07-24,GoAir,8.0
+2023-07-25,GoAir,7.0
+2023-07-26,GoAir,9.0
+2023-07-27,GoAir,5.0
+2023-07-29,GoAir,3.0
+2023-07-30,GoAir,3.0
+2023-08-01,GoAir,5.0
+2023-08-02,GoAir,5.0
+2023-08-03,GoAir,8.0
+2023-08-04,GoAir,7.0
+2023-08-05,GoAir,9.0
+2023-08-06,GoAir,16.0
+2023-08-07,GoAir,6.0
+2023-08-08,GoAir,5.0
+2023-08-09,GoAir,6.0
+2023-08-13,GoAir,9.0
+2023-08-14,GoAir,4.0
+2023-08-15,GoAir,5.0
+2023-10-14,GoAir,4.0
+2023-10-15,GoAir,9.0
+2023-10-16,GoAir,11.0
+2023-10-17,GoAir,4.0
+2023-10-19,GoAir,5.0
+2023-10-20,GoAir,4.0
+2023-10-21,GoAir,6.0
+2023-10-22,GoAir,11.0
+2023-10-23,GoAir,7.0
+2023-10-24,GoAir,10.0
+2023-10-25,GoAir,7.0
+2023-10-26,GoAir,6.0
+2023-10-27,GoAir,5.0
+2023-10-28,GoAir,10.0
+2023-10-29,GoAir,13.0
+2023-11-01,GoAir,4.0
+2023-11-02,GoAir,4.0
+2023-11-04,GoAir,5.0
+2023-11-05,GoAir,10.0
+2023-11-12,GoAir,5.0
+2023-11-17,GoAir,5.0
+2023-11-18,GoAir,7.0
+2023-11-19,GoAir,7.0
+2023-11-23,GoAir,4.0
+2023-11-25,GoAir,6.0
+2023-11-26,GoAir,7.0
+2023-11-28,GoAir,5.0
+2023-11-30,GoAir,4.0
+2023-12-02,GoAir,8.0
+2023-12-03,GoAir,8.0
+2023-12-04,GoAir,11.0
+2023-12-07,GoAir,8.0
+2023-12-08,GoAir,5.0
+2023-12-10,GoAir,14.0
+2023-12-11,GoAir,9.0
+2023-12-13,GoAir,8.0
+2023-12-12,GoAir,9.0
+2023-12-15,GoAir,7.0
+2023-12-16,GoAir,7.0
+2023-12-19,GoAir,7.0
+2023-12-21,GoAir,6.0
+2023-12-26,GoAir,5.0
+2023-12-28,GoAir,6.0
+2023-12-27,GoAir,7.0
+2023-12-29,GoAir,6.0
+2023-12-30,GoAir,6.0
+2023-12-31,GoAir,7.0
+2024-01-01,GoAir,11.0
+2024-01-02,GoAir,15.0
+2024-01-05,GoAir,7.0
+2024-01-06,GoAir,9.0
+2024-01-07,GoAir,12.0
+2024-01-08,GoAir,10.0
+2024-01-09,GoAir,6.0
+2024-01-10,GoAir,5.0
+2024-01-11,GoAir,5.0
+2024-01-12,GoAir,7.0
+2024-01-13,GoAir,7.0
+2024-01-14,GoAir,7.0
+2024-01-15,GoAir,7.0
+2024-01-16,GoAir,6.0
+2024-01-17,GoAir,12.0
+2024-01-24,GoAir,9.0
+2024-01-25,GoAir,10.0
+2024-01-27,GoAir,7.0
+2024-01-28,GoAir,13.0
+2024-01-31,GoAir,9.0
+2024-02-01,GoAir,8.0
+2024-02-03,GoAir,6.0
+2024-02-04,GoAir,7.0
+2024-02-05,GoAir,12.0
+2024-02-07,GoAir,13.0
+2024-02-08,GoAir,10.0
+2024-02-09,GoAir,15.0
+2024-02-10,GoAir,21.0
+2024-02-11,GoAir,27.0
+2024-02-12,GoAir,21.0
+2024-02-13,GoAir,17.0
+2024-02-14,GoAir,19.0
+2024-02-15,GoAir,14.0
+2024-02-17,GoAir,8.0
+2024-02-18,GoAir,16.0
+2024-02-19,GoAir,8.0
+2024-02-21,GoAir,7.0
+2024-02-23,GoAir,5.0
+2024-02-24,GoAir,7.0
+2024-02-25,GoAir,12.0
+2024-02-26,GoAir,14.0
+2024-02-27,GoAir,15.0
+2024-02-28,GoAir,11.0
+2024-03-05,GoAir,9.0
+2024-03-11,GoAir,7.0
+2024-03-12,GoAir,8.0
+2024-03-13,GoAir,14.0
+2024-03-15,GoAir,7.0
+2024-03-16,GoAir,8.0
+2024-03-17,GoAir,9.0
+2024-03-18,GoAir,11.0
+2024-03-19,GoAir,12.0
+2024-03-20,GoAir,14.0
+2024-03-24,GoAir,6.0
+2024-03-25,GoAir,10.0
+2024-03-26,GoAir,10.0
+2024-03-27,GoAir,11.0
+2024-03-28,GoAir,12.0
+2024-03-29,GoAir,13.0
+2024-04-01,GoAir,8.0
+2024-04-02,GoAir,10.0
+2024-04-03,GoAir,8.0
+2024-04-04,GoAir,9.0
+2024-04-05,GoAir,15.0
+2024-04-06,GoAir,15.0
+2024-04-07,GoAir,17.0
+2024-04-08,GoAir,19.0
+2024-04-11,GoAir,14.0
+2024-04-12,GoAir,17.0
+2024-04-13,GoAir,17.0
+2024-04-16,GoAir,6.0
+2024-04-17,GoAir,7.0
+2024-04-18,GoAir,8.0
+2024-04-19,GoAir,9.0
+2024-04-21,GoAir,9.0
+2024-04-22,GoAir,13.0
+2024-04-24,GoAir,14.0
+2024-04-25,GoAir,16.0
+2024-04-28,GoAir,8.0
+2024-04-30,GoAir,11.0
+2024-05-01,GoAir,13.0
+2024-05-04,GoAir,13.0
+2024-05-05,GoAir,13.0
+2024-05-06,GoAir,14.0
+2024-05-07,GoAir,15.0
+2024-05-08,GoAir,15.0
+2024-05-09,GoAir,19.0
+2024-05-10,GoAir,21.0
+2024-05-11,GoAir,23.0
+2024-05-12,GoAir,24.0
+2024-05-13,GoAir,32.0
+2024-05-15,GoAir,5.0
+2024-05-16,GoAir,8.0
+2024-05-17,GoAir,9.0
+2024-05-18,GoAir,13.0
+2024-05-19,GoAir,13.0
+2024-05-20,GoAir,18.0
+2024-05-22,GoAir,16.0
+2024-05-23,GoAir,17.0
+2024-05-24,GoAir,18.0
+2024-05-25,GoAir,20.0
+2024-05-27,GoAir,12.0
+2024-05-29,GoAir,9.0
+2024-05-30,GoAir,15.0
+2024-05-31,GoAir,18.0
+2024-06-01,GoAir,18.0
+2024-06-02,GoAir,20.0
+2024-06-04,GoAir,29.0
+2024-06-08,GoAir,7.0
+2024-06-09,GoAir,7.0
+2024-06-10,GoAir,9.0
+2024-06-11,GoAir,9.0
+2024-06-13,GoAir,4.0
+2024-06-14,GoAir,5.0
+2024-06-15,GoAir,7.0
+2024-06-16,GoAir,9.0
+2024-06-17,GoAir,13.0
+2024-06-18,GoAir,14.0
+2024-06-19,GoAir,20.0
+2024-06-21,GoAir,9.0
+2024-06-22,GoAir,12.0
+2024-06-23,GoAir,14.0
+2024-06-24,GoAir,16.0
+2024-06-25,GoAir,22.0
+2021-08-10,IndiGo,6.0
+2021-08-18,IndiGo,5.0
+2021-08-19,IndiGo,4.0
+2021-08-20,IndiGo,4.0
+2021-08-27,IndiGo,4.0
+2021-08-28,IndiGo,4.0
+2021-08-29,IndiGo,4.0
+2021-10-03,IndiGo,5.0
+2021-10-04,IndiGo,6.0
+2021-10-07,IndiGo,4.0
+2021-10-09,IndiGo,6.0
+2021-10-27,IndiGo,4.0
+2021-11-05,IndiGo,11.0
+2021-11-07,IndiGo,9.0
+2021-11-08,IndiGo,11.0
+2021-11-15,IndiGo,9.0
+2021-11-27,IndiGo,3.0
+2021-11-29,IndiGo,5.0
+2021-12-13,IndiGo,6.0
+2021-12-26,IndiGo,5.0
+2021-12-27,IndiGo,4.0
+2021-12-28,IndiGo,4.0
+2021-12-29,IndiGo,5.0
+2021-12-30,IndiGo,4.0
+2021-12-31,IndiGo,3.0
+2022-01-01,IndiGo,2.0
+2022-01-02,IndiGo,3.0
+2022-01-03,IndiGo,7.0
+2022-01-04,IndiGo,11.0
+2022-01-06,IndiGo,7.0
+2022-01-05,IndiGo,7.0
+2022-01-07,IndiGo,7.0
+2022-01-08,IndiGo,7.0
+2022-01-09,IndiGo,7.0
+2022-01-10,IndiGo,5.0
+2022-01-11,IndiGo,4.0
+2022-01-12,IndiGo,4.0
+2022-01-13,IndiGo,3.0
+2022-01-14,IndiGo,3.0
+2022-01-15,IndiGo,4.0
+2022-01-16,IndiGo,4.0
+2022-01-17,IndiGo,4.0
+2022-01-19,IndiGo,3.0
+2022-01-18,IndiGo,4.0
+2022-01-20,IndiGo,3.0
+2022-01-21,IndiGo,6.0
+2022-01-22,IndiGo,5.0
+2022-01-23,IndiGo,5.0
+2022-01-24,IndiGo,5.0
+2022-01-25,IndiGo,6.0
+2022-01-26,IndiGo,5.0
+2022-01-27,IndiGo,4.0
+2022-01-28,IndiGo,4.0
+2022-01-29,IndiGo,6.0
+2022-01-30,IndiGo,4.0
+2022-01-31,IndiGo,4.0
+2022-02-01,IndiGo,2.0
+2022-02-02,IndiGo,2.0
+2022-02-03,IndiGo,4.0
+2022-02-04,IndiGo,5.0
+2022-02-07,IndiGo,4.0
+2022-02-08,IndiGo,2.0
+2022-02-09,IndiGo,2.0
+2022-02-10,IndiGo,2.0
+2022-02-11,IndiGo,3.0
+2022-02-13,IndiGo,4.0
+2022-02-14,IndiGo,5.0
+2022-02-15,IndiGo,2.0
+2022-02-18,IndiGo,3.0
+2022-02-19,IndiGo,4.0
+2022-02-21,IndiGo,5.0
+2022-02-24,IndiGo,3.0
+2022-02-25,IndiGo,5.0
+2022-02-26,IndiGo,4.0
+2022-03-01,IndiGo,4.0
+2022-03-02,IndiGo,6.0
+2022-03-06,IndiGo,4.0
+2022-03-10,IndiGo,6.0
+2022-03-11,IndiGo,5.0
+2022-03-14,IndiGo,6.0
+2022-03-18,IndiGo,8.0
+2022-03-19,IndiGo,5.0
+2022-03-20,IndiGo,4.0
+2022-03-21,IndiGo,6.0
+2022-03-22,IndiGo,6.0
+2022-03-23,IndiGo,8.0
+2022-03-25,IndiGo,5.0
+2022-03-26,IndiGo,11.0
+2022-03-27,IndiGo,8.0
+2022-03-28,IndiGo,10.0
+2022-03-31,IndiGo,6.0
+2022-04-01,IndiGo,7.0
+2022-04-03,IndiGo,5.0
+2022-04-04,IndiGo,3.0
+2022-04-06,IndiGo,6.0
+2022-04-05,IndiGo,2.0
+2022-04-07,IndiGo,3.0
+2022-04-10,IndiGo,4.0
+2022-04-11,IndiGo,4.0
+2022-04-13,IndiGo,5.0
+2022-04-21,IndiGo,3.0
+2022-04-30,IndiGo,4.0
+2022-05-11,IndiGo,5.0
+2022-05-13,IndiGo,4.0
+2022-05-14,IndiGo,5.0
+2022-05-15,IndiGo,5.0
+2022-05-16,IndiGo,5.0
+2022-06-02,IndiGo,4.0
+2022-11-29,IndiGo,7.0
+2022-12-03,IndiGo,4.0
+2023-01-03,IndiGo,4.0
+2023-02-01,IndiGo,6.0
+2023-02-19,IndiGo,5.0
+2023-03-05,IndiGo,6.0
+2023-03-13,IndiGo,5.0
+2023-03-14,IndiGo,4.0
+2023-03-21,IndiGo,5.0
+2023-03-22,IndiGo,5.0
+2023-03-25,IndiGo,4.0
+2023-03-27,IndiGo,3.0
+2023-03-28,IndiGo,4.0
+2023-03-30,IndiGo,4.0
+2023-03-31,IndiGo,4.0
+2023-04-04,IndiGo,8.0
+2023-04-06,IndiGo,4.0
+2023-04-10,IndiGo,4.0
+2023-04-11,IndiGo,6.0
+2023-04-12,IndiGo,4.0
+2023-04-16,IndiGo,4.0
+2023-04-17,IndiGo,3.0
+2023-04-28,IndiGo,6.0
+2023-04-29,IndiGo,4.0
+2023-05-03,IndiGo,4.0
+2023-05-05,IndiGo,3.0
+2023-05-06,IndiGo,6.0
+2023-05-08,IndiGo,4.0
+2023-05-09,IndiGo,3.0
+2023-05-20,IndiGo,4.0
+2023-05-23,IndiGo,4.0
+2023-05-27,IndiGo,5.0
+2023-05-28,IndiGo,5.0
+2023-05-29,IndiGo,4.0
+2023-06-04,IndiGo,6.0
+2023-06-09,IndiGo,5.0
+2023-06-11,IndiGo,5.0
+2023-06-19,IndiGo,7.0
+2023-06-23,IndiGo,4.0
+2023-06-25,IndiGo,6.0
+2023-06-26,IndiGo,6.0
+2023-06-27,IndiGo,5.0
+2023-06-28,IndiGo,4.0
+2023-06-29,IndiGo,3.0
+2023-06-30,IndiGo,5.0
+2023-07-02,IndiGo,5.0
+2023-07-15,IndiGo,5.0
+2023-07-25,IndiGo,3.0
+2023-07-26,IndiGo,4.0
+2023-07-27,IndiGo,4.0
+2023-07-28,IndiGo,3.0
+2023-07-29,IndiGo,4.0
+2023-08-04,IndiGo,4.0
+2023-08-05,IndiGo,3.0
+2023-08-06,IndiGo,3.0
+2023-08-10,IndiGo,4.0
+2023-08-11,IndiGo,5.0
+2023-08-15,IndiGo,4.0
+2023-08-28,IndiGo,5.0
+2023-09-20,IndiGo,4.0
+2023-10-14,IndiGo,4.0
+2023-10-15,IndiGo,6.0
+2023-10-16,IndiGo,6.0
+2023-10-18,IndiGo,4.0
+2023-10-19,IndiGo,4.0
+2023-10-24,IndiGo,5.0
+2023-10-25,IndiGo,5.0
+2023-11-06,IndiGo,4.0
+2023-11-07,IndiGo,6.0
+2023-11-08,IndiGo,8.0
+2023-11-10,IndiGo,4.0
+2023-11-11,IndiGo,4.0
+2023-11-13,IndiGo,5.0
+2023-11-14,IndiGo,12.0
+2023-11-15,IndiGo,5.0
+2023-11-17,IndiGo,5.0
+2023-11-18,IndiGo,5.0
+2023-11-19,IndiGo,6.0
+2023-11-22,IndiGo,6.0
+2023-11-25,IndiGo,5.0
+2023-11-27,IndiGo,8.0
+2023-11-26,IndiGo,5.0
+2023-11-30,IndiGo,7.0
+2023-12-01,IndiGo,7.0
+2023-12-02,IndiGo,14.0
+2023-12-03,IndiGo,14.0
+2023-12-04,IndiGo,10.0
+2023-12-06,IndiGo,6.0
+2023-12-07,IndiGo,8.0
+2023-12-08,IndiGo,6.0
+2023-12-10,IndiGo,9.0
+2023-12-13,IndiGo,6.0
+2023-12-14,IndiGo,7.0
+2023-12-12,IndiGo,13.0
+2023-12-18,IndiGo,5.0
+2023-12-19,IndiGo,8.0
+2023-12-20,IndiGo,5.0
+2023-12-21,IndiGo,5.0
+2023-12-22,IndiGo,5.0
+2023-12-25,IndiGo,5.0
+2023-12-23,IndiGo,5.0
+2023-12-26,IndiGo,12.0
+2023-12-28,IndiGo,7.0
+2023-12-27,IndiGo,6.0
+2023-12-29,IndiGo,8.0
+2023-12-30,IndiGo,12.0
+2023-12-31,IndiGo,17.0
+2024-01-01,IndiGo,8.0
+2024-01-03,IndiGo,7.0
+2024-01-04,IndiGo,8.0
+2024-01-05,IndiGo,7.0
+2024-01-06,IndiGo,8.0
+2024-01-07,IndiGo,10.0
+2024-01-09,IndiGo,5.0
+2024-01-10,IndiGo,6.0
+2024-01-11,IndiGo,6.0
+2024-01-12,IndiGo,5.0
+2024-01-16,IndiGo,10.0
+2024-01-17,IndiGo,8.0
+2024-01-18,IndiGo,6.0
+2024-01-19,IndiGo,6.0
+2024-01-20,IndiGo,7.0
+2024-01-21,IndiGo,7.0
+2024-01-22,IndiGo,7.0
+2024-01-23,IndiGo,8.0
+2024-01-24,IndiGo,9.0
+2024-01-25,IndiGo,8.0
+2024-01-27,IndiGo,7.0
+2024-01-28,IndiGo,8.0
+2024-01-29,IndiGo,6.0
+2024-01-30,IndiGo,15.0
+2024-01-31,IndiGo,7.0
+2024-02-01,IndiGo,9.0
+2024-02-02,IndiGo,7.0
+2024-02-05,IndiGo,9.0
+2024-02-06,IndiGo,9.0
+2024-02-07,IndiGo,6.0
+2024-02-08,IndiGo,7.0
+2024-02-10,IndiGo,9.0
+2024-02-11,IndiGo,13.0
+2024-02-12,IndiGo,9.0
+2024-02-13,IndiGo,15.0
+2024-02-15,IndiGo,5.0
+2024-02-21,IndiGo,6.0
+2024-02-22,IndiGo,12.0
+2024-02-23,IndiGo,8.0
+2024-02-24,IndiGo,8.0
+2024-02-25,IndiGo,10.0
+2024-02-26,IndiGo,13.0
+2024-02-27,IndiGo,17.0
+2024-02-28,IndiGo,6.0
+2024-02-29,IndiGo,11.0
+2024-03-01,IndiGo,7.0
+2024-03-02,IndiGo,5.0
+2024-03-04,IndiGo,8.0
+2024-03-05,IndiGo,8.0
+2024-03-06,IndiGo,10.0
+2024-03-07,IndiGo,13.0
+2024-03-08,IndiGo,9.0
+2024-03-09,IndiGo,12.0
+2024-03-10,IndiGo,17.0
+2024-03-11,IndiGo,13.0
+2024-03-12,IndiGo,17.0
+2024-03-13,IndiGo,9.0
+2024-03-14,IndiGo,6.0
+2024-03-15,IndiGo,6.0
+2024-03-16,IndiGo,10.0
+2024-03-17,IndiGo,13.0
+2024-03-18,IndiGo,9.0
+2024-03-19,IndiGo,11.0
+2024-03-20,IndiGo,10.0
+2024-03-21,IndiGo,8.0
+2024-03-22,IndiGo,7.0
+2024-03-24,IndiGo,9.0
+2024-03-25,IndiGo,7.0
+2024-03-26,IndiGo,10.0
+2024-03-27,IndiGo,6.0
+2024-03-28,IndiGo,11.0
+2024-03-29,IndiGo,10.0
+2024-03-30,IndiGo,7.0
+2024-03-31,IndiGo,10.0
+2024-04-01,IndiGo,7.0
+2024-04-02,IndiGo,8.0
+2024-04-03,IndiGo,11.0
+2024-04-04,IndiGo,12.0
+2024-04-05,IndiGo,9.0
+2024-04-06,IndiGo,7.0
+2024-04-07,IndiGo,8.0
+2024-04-08,IndiGo,9.0
+2024-04-10,IndiGo,5.0
+2024-04-13,IndiGo,13.0
+2024-04-14,IndiGo,15.0
+2024-04-15,IndiGo,9.0
+2024-04-18,IndiGo,8.0
+2024-04-20,IndiGo,8.0
+2024-04-22,IndiGo,12.0
+2024-05-04,IndiGo,9.0
+2024-05-05,IndiGo,11.0
+2024-05-07,IndiGo,10.0
+2024-05-08,IndiGo,10.0
+2024-05-09,IndiGo,9.0
+2024-05-10,IndiGo,8.0
+2024-05-11,IndiGo,14.0
+2024-05-12,IndiGo,11.0
+2024-05-13,IndiGo,15.0
+2024-05-14,IndiGo,14.0
+2024-05-15,IndiGo,13.0
+2024-05-16,IndiGo,8.0
+2024-05-17,IndiGo,9.0
+2024-05-18,IndiGo,18.0
+2024-05-19,IndiGo,18.0
+2024-05-20,IndiGo,10.0
+2024-05-22,IndiGo,9.0
+2024-05-23,IndiGo,8.0
+2024-05-24,IndiGo,16.0
+2024-05-25,IndiGo,7.0
+2024-05-26,IndiGo,12.0
+2024-05-27,IndiGo,12.0
+2024-05-28,IndiGo,10.0
+2024-05-29,IndiGo,12.0
+2024-05-30,IndiGo,13.0
+2024-05-31,IndiGo,13.0
+2024-06-01,IndiGo,13.0
+2024-06-02,IndiGo,13.0
+2024-06-04,IndiGo,16.0
+2024-06-05,IndiGo,15.0
+2024-06-06,IndiGo,12.0
+2024-06-07,IndiGo,14.0
+2024-06-08,IndiGo,8.0
+2024-06-09,IndiGo,8.0
+2024-06-10,IndiGo,9.0
+2024-06-11,IndiGo,13.0
+2024-06-12,IndiGo,10.0
+2024-06-13,IndiGo,11.0
+2024-06-14,IndiGo,13.0
+2024-06-15,IndiGo,15.0
+2024-06-16,IndiGo,8.0
+2024-06-17,IndiGo,11.0
+2024-06-18,IndiGo,18.0
+2024-06-19,IndiGo,17.0
+2024-06-20,IndiGo,11.0
+2024-06-21,IndiGo,12.0
+2024-06-22,IndiGo,10.0
+2024-06-23,IndiGo,9.0
+2024-06-24,IndiGo,6.0
+2024-06-25,IndiGo,12.0
+2024-06-26,IndiGo,9.0
+2024-06-29,IndiGo,7.0
+2024-07-01,IndiGo,13.0
+2024-07-02,IndiGo,13.0
+2024-07-03,IndiGo,21.0
+2024-07-04,IndiGo,11.0
+2024-07-05,IndiGo,11.0
+2024-07-06,IndiGo,10.0
+2024-07-07,IndiGo,9.0
+2024-07-08,IndiGo,13.0
+2024-07-09,IndiGo,12.0
+2024-07-10,IndiGo,10.0
+2024-07-11,IndiGo,9.0
+2024-07-12,IndiGo,14.0
+2024-07-13,IndiGo,15.0
+2024-07-14,IndiGo,15.0
+2024-07-15,IndiGo,17.0
+2024-07-16,IndiGo,15.0
+2024-07-17,IndiGo,13.0
+2024-07-18,IndiGo,9.0
+2024-07-19,IndiGo,14.0
+2024-07-20,IndiGo,23.0
+2024-07-21,IndiGo,25.0
+2024-07-22,IndiGo,35.0
+2024-07-23,IndiGo,10.0
+2024-07-24,IndiGo,10.0
+2024-07-25,IndiGo,10.0
+2024-07-26,IndiGo,11.0
+2024-07-27,IndiGo,13.0
+2024-07-28,IndiGo,16.0
+2024-07-30,IndiGo,22.0
+2024-07-31,IndiGo,23.0
+2024-08-01,IndiGo,21.0
+2024-08-03,IndiGo,21.0
+2024-08-04,IndiGo,22.0
+2024-08-05,IndiGo,23.0
+2024-08-06,IndiGo,20.0
+2024-08-07,IndiGo,21.0
+2024-08-08,IndiGo,20.0
+2024-08-09,IndiGo,22.0
+2024-08-10,IndiGo,13.0
+2024-08-11,IndiGo,18.0
+2024-08-12,IndiGo,16.0
+2024-08-13,IndiGo,17.0
+2024-08-14,IndiGo,20.0
+2024-08-15,IndiGo,18.0
+2024-08-16,IndiGo,18.0
+2024-08-17,IndiGo,14.0
+2024-08-18,IndiGo,18.0
+2024-08-19,IndiGo,16.0
+2024-08-29,IndiGo,13.0
+2024-08-30,IndiGo,10.0
+2024-08-31,IndiGo,3.0
+2024-09-18,IndiGo,5.0
+2024-09-19,IndiGo,4.0
+2024-09-20,IndiGo,4.0
+2024-09-21,IndiGo,4.0
+2024-09-22,IndiGo,9.0
+2024-09-23,IndiGo,8.0
+2024-09-24,IndiGo,7.0
+2024-09-25,IndiGo,6.0
+2024-09-26,IndiGo,6.0
+2024-09-27,IndiGo,7.0
+2024-09-28,IndiGo,5.0
+2024-09-29,IndiGo,3.0
+2024-09-30,IndiGo,6.0
+2024-10-01,IndiGo,7.0
+2024-10-02,IndiGo,8.0
+2024-10-03,IndiGo,9.0
+2024-10-04,IndiGo,4.0
+2024-10-05,IndiGo,4.0
+2024-10-07,IndiGo,5.0
+2024-10-09,IndiGo,4.0
+2024-10-10,IndiGo,4.0
+2024-10-11,IndiGo,4.0
+2024-10-13,IndiGo,3.0
+2024-10-14,IndiGo,4.0
+2024-10-15,IndiGo,3.0
+2024-10-16,IndiGo,6.0
+2024-10-17,IndiGo,7.0
+2024-10-18,IndiGo,6.0
+2024-10-19,IndiGo,6.0
+2024-10-20,IndiGo,5.0
+2024-10-22,IndiGo,7.0
+2024-10-23,IndiGo,7.0
+2024-10-24,IndiGo,11.0
+2024-10-25,IndiGo,11.0
+2024-10-26,IndiGo,9.0
+2024-10-27,IndiGo,9.0
+2024-10-28,IndiGo,10.0
+2024-10-29,IndiGo,6.0
+2024-11-03,IndiGo,8.0
+2024-11-04,IndiGo,8.0
+2024-11-05,IndiGo,8.0
+2024-11-06,IndiGo,8.0
+2024-11-08,IndiGo,8.0
+2024-11-09,IndiGo,6.0
+2024-11-10,IndiGo,7.0
+2024-11-11,IndiGo,9.0
+2024-11-12,IndiGo,12.0
+2024-11-13,IndiGo,10.0
+2024-11-14,IndiGo,10.0
+2024-11-15,IndiGo,8.0
+2024-11-16,IndiGo,9.0
+2024-11-17,IndiGo,8.0
+2024-11-18,IndiGo,12.0
+2024-11-19,IndiGo,13.0
+2024-11-20,IndiGo,13.0
+2024-11-21,IndiGo,13.0
+2024-11-22,IndiGo,12.0
+2024-11-23,IndiGo,12.0
+2024-11-24,IndiGo,12.0
+2024-11-25,IndiGo,7.0
+2024-11-26,IndiGo,13.0
+2024-11-27,IndiGo,10.0
+2024-11-28,IndiGo,12.0
+2024-11-29,IndiGo,13.0
+2024-11-30,IndiGo,12.0
+2024-12-01,IndiGo,12.0
+2024-12-02,IndiGo,18.0
+2024-12-03,IndiGo,10.0
+2024-12-04,IndiGo,7.0
+2024-12-05,IndiGo,9.0
+2024-12-06,IndiGo,10.0
+2024-12-07,IndiGo,12.0
+2024-12-08,IndiGo,11.0
+2024-12-09,IndiGo,12.0
+2024-12-10,IndiGo,14.0
+2024-12-12,IndiGo,7.0
+2024-12-13,IndiGo,11.0
+2024-12-14,IndiGo,11.0
+2024-12-15,IndiGo,12.0
+2024-12-16,IndiGo,11.0
+2024-12-17,IndiGo,12.0
+2024-12-18,IndiGo,13.0
+2024-12-19,IndiGo,13.0
+2024-12-20,IndiGo,10.0
+2024-12-21,IndiGo,14.0
+2024-12-22,IndiGo,9.0
+2024-12-23,IndiGo,10.0
+2024-12-24,IndiGo,8.0
+2024-12-25,IndiGo,5.0
+2024-12-26,IndiGo,7.0
+2025-01-02,IndiGo,8.0
+2025-01-03,IndiGo,8.0
+2025-01-04,IndiGo,8.0
+2025-01-05,IndiGo,7.0
+2025-01-06,IndiGo,8.0
+2025-01-07,IndiGo,11.0
+2025-01-28,IndiGo,21.0
+2025-01-29,IndiGo,16.0
+2025-01-30,IndiGo,16.0
+2025-01-31,IndiGo,16.0
+2025-02-01,IndiGo,16.0
+2025-02-02,IndiGo,16.0
+2025-02-03,IndiGo,19.0
+2025-02-04,IndiGo,18.0
+2025-02-05,IndiGo,14.0
+2025-02-06,IndiGo,12.0
+2025-02-07,IndiGo,14.0
+2025-02-09,IndiGo,9.0
+2025-02-10,IndiGo,13.0
+2025-02-11,IndiGo,11.0
+2025-02-12,IndiGo,12.0
+2025-02-13,IndiGo,14.0
+2025-02-14,IndiGo,11.0
+2025-02-15,IndiGo,11.0
+2025-02-18,IndiGo,6.0
+2025-02-19,IndiGo,12.0
+2025-02-20,IndiGo,9.0
+2025-02-21,IndiGo,8.0
+2025-02-22,IndiGo,8.0
+2025-02-23,IndiGo,8.0
+2025-02-24,IndiGo,11.0
+2025-02-25,IndiGo,11.0
+2025-02-26,IndiGo,8.0
+2025-02-27,IndiGo,12.0
+2025-03-03,IndiGo,12.0
+2025-03-04,IndiGo,12.0
+2025-03-05,IndiGo,10.0
+2025-03-06,IndiGo,9.0
+2025-03-07,IndiGo,11.0
+2025-03-08,IndiGo,13.0
+2025-03-09,IndiGo,12.0
+2025-03-10,IndiGo,13.0
+2025-03-11,IndiGo,12.0
+2025-03-12,IndiGo,15.0
+2025-03-13,IndiGo,13.0
+2025-03-14,IndiGo,14.0
+2025-03-15,IndiGo,13.0
+2025-03-16,IndiGo,18.0
+2025-03-17,IndiGo,12.0
+2025-03-18,IndiGo,9.0
+2025-03-19,IndiGo,9.0
+2025-03-20,IndiGo,8.0
+2025-03-21,IndiGo,9.0
+2025-03-22,IndiGo,6.0
+2025-03-25,IndiGo,8.0
+2025-03-26,IndiGo,6.0
+2025-03-27,IndiGo,7.0
+2025-03-28,IndiGo,4.0
+2025-03-30,IndiGo,7.0
+2025-04-01,IndiGo,10.0
+2025-04-02,IndiGo,13.0
+2025-04-03,IndiGo,7.0
+2025-04-07,IndiGo,11.0
+2025-04-08,IndiGo,12.0
+2025-04-09,IndiGo,8.0
+2025-04-10,IndiGo,12.0
+2025-04-11,IndiGo,14.0
+2025-04-12,IndiGo,11.0
+2025-04-13,IndiGo,13.0
+2025-04-14,IndiGo,11.0
+2025-04-15,IndiGo,13.0
+2025-04-16,IndiGo,22.0
+2025-04-17,IndiGo,14.0
+2025-04-18,IndiGo,15.0
+2025-04-19,IndiGo,12.0
+2025-04-20,IndiGo,13.0
+2025-04-21,IndiGo,17.0
+2025-04-22,IndiGo,15.0
+2025-04-23,IndiGo,17.0
+2025-04-24,IndiGo,14.0
+2025-04-25,IndiGo,16.0
+2025-04-26,IndiGo,17.0
+2025-04-27,IndiGo,15.0
+2025-04-28,IndiGo,15.0
+2025-04-29,IndiGo,19.0
+2025-04-30,IndiGo,21.0
+2025-05-01,IndiGo,19.0
+2025-05-02,IndiGo,21.0
+2025-05-03,IndiGo,18.0
+2025-05-04,IndiGo,19.0
+2025-05-05,IndiGo,17.0
+2025-05-06,IndiGo,16.0
+2025-05-07,IndiGo,19.0
+2025-05-08,IndiGo,16.0
+2025-05-09,IndiGo,19.0
+2025-05-10,IndiGo,19.0
+2025-05-11,IndiGo,12.0
+2025-05-12,IndiGo,15.0
+2025-05-13,IndiGo,20.0
+2025-05-14,IndiGo,23.0
+2025-05-15,IndiGo,20.0
+2025-05-16,IndiGo,16.0
+2025-05-17,IndiGo,18.0
+2025-05-18,IndiGo,19.0
+2025-05-19,IndiGo,18.0
+2025-05-20,IndiGo,21.0
+2025-05-21,IndiGo,15.0
+2025-05-22,IndiGo,14.0
+2025-05-23,IndiGo,17.0
+2025-05-24,IndiGo,17.0
+2025-05-25,IndiGo,19.0
+2025-05-26,IndiGo,19.0
+2025-05-27,IndiGo,23.0
+2025-05-28,IndiGo,24.0
+2025-05-29,IndiGo,19.0
+2025-05-30,IndiGo,18.0
+2025-05-31,IndiGo,13.0
+2025-06-01,IndiGo,10.0
+2025-06-02,IndiGo,17.0
+2025-06-03,IndiGo,18.0
+2025-06-04,IndiGo,19.0
+2025-06-05,IndiGo,22.0
+2025-06-06,IndiGo,29.0
+2025-06-07,IndiGo,18.0
+2025-06-08,IndiGo,19.0
+2025-06-09,IndiGo,17.0
+2025-06-10,IndiGo,20.0
+2025-06-11,IndiGo,13.0
+2025-06-12,IndiGo,13.0
+2025-06-13,IndiGo,12.0
+2025-06-14,IndiGo,8.0
+2025-06-15,IndiGo,14.0
+2025-06-16,IndiGo,20.0
+2025-06-17,IndiGo,13.0
+2025-06-18,IndiGo,9.0
+2025-06-19,IndiGo,15.0
+2025-06-20,IndiGo,11.0
+2025-06-21,IndiGo,16.0
+2025-06-22,IndiGo,14.0
+2025-06-23,IndiGo,14.0
+2025-06-24,IndiGo,15.0
+2025-06-25,IndiGo,15.0
+2025-06-26,IndiGo,15.0
+2025-06-27,IndiGo,11.0
+2025-06-28,IndiGo,17.0
+2025-06-29,IndiGo,13.0
+2025-06-30,IndiGo,17.0
+2025-07-01,IndiGo,19.0
+2025-07-02,IndiGo,21.0
+2025-07-03,IndiGo,23.0
+2025-07-04,IndiGo,26.0
+2025-07-05,IndiGo,27.0
+2025-07-06,IndiGo,26.0
+2025-07-07,IndiGo,18.0
+2025-07-08,IndiGo,15.0
+2025-07-09,IndiGo,18.0
+2025-07-10,IndiGo,16.0
+2025-07-11,IndiGo,18.0
+2025-07-12,IndiGo,22.0
+2025-07-13,IndiGo,21.0
+2025-07-14,IndiGo,21.0
+2025-07-15,IndiGo,21.0
+2025-07-16,IndiGo,33.0
+2025-07-17,IndiGo,45.0
+2025-07-18,IndiGo,15.0
+2025-07-19,IndiGo,30.0
+2025-07-20,IndiGo,28.0
+2025-07-21,IndiGo,22.0
+2025-07-22,IndiGo,26.0
+2025-07-23,IndiGo,21.0
+2025-07-24,IndiGo,29.0
+2025-07-25,IndiGo,31.0
+2025-07-26,IndiGo,27.0
+2025-07-27,IndiGo,23.0
+2025-07-28,IndiGo,22.0
+2025-07-29,IndiGo,21.0
+2025-07-30,IndiGo,14.0
+2025-07-31,IndiGo,21.0
+2025-08-01,IndiGo,19.0
+2025-08-02,IndiGo,20.0
+2025-08-03,IndiGo,17.0
+2025-08-04,IndiGo,21.0
+2025-08-05,IndiGo,28.0
+2025-08-06,IndiGo,23.0
+2025-08-07,IndiGo,27.0
+2025-08-08,IndiGo,31.0
+2025-08-09,IndiGo,27.0
+2025-08-10,IndiGo,31.0
+2025-08-11,IndiGo,25.0
+2025-08-12,IndiGo,22.0
+2025-08-13,IndiGo,11.0
+2025-08-14,IndiGo,11.0
+2025-08-15,IndiGo,23.0
+2025-08-16,IndiGo,32.0
+2025-08-17,IndiGo,40.0
+2025-08-18,IndiGo,20.0
+2025-08-19,IndiGo,14.0
+2025-08-20,IndiGo,23.0
+2025-08-21,IndiGo,11.0
+2025-08-22,IndiGo,14.0
+2025-08-23,IndiGo,19.0
+2025-08-24,IndiGo,20.0
+2025-08-25,IndiGo,18.0
+2025-08-26,IndiGo,19.0
+2025-08-27,IndiGo,19.0
+2025-08-28,IndiGo,23.0
+2025-08-29,IndiGo,17.0
+2025-08-30,IndiGo,20.0
+2025-08-31,IndiGo,17.0
+2025-09-01,IndiGo,23.0
+2025-09-02,IndiGo,21.0
+2025-09-03,IndiGo,27.0
+2025-09-05,IndiGo,16.0
+2025-09-06,IndiGo,22.0
+2025-09-07,IndiGo,24.0
+2025-09-08,IndiGo,18.0
+2025-09-09,IndiGo,18.0
+2025-09-10,IndiGo,33.0
+2025-09-11,IndiGo,25.0
+2025-09-12,IndiGo,25.0
+2025-09-13,IndiGo,25.0
+2025-09-14,IndiGo,20.0
+2025-09-15,IndiGo,22.0
+2025-09-16,IndiGo,27.0
+2025-09-17,IndiGo,21.0
+2025-09-18,IndiGo,17.0
+2025-09-19,IndiGo,24.0
+2025-09-20,IndiGo,24.0
+2025-09-21,IndiGo,20.0
+2025-09-22,IndiGo,25.0
+2025-09-23,IndiGo,26.0
+2025-09-25,IndiGo,23.0
+2025-09-26,IndiGo,15.0
+2025-09-27,IndiGo,16.0
+2025-10-01,IndiGo,16.0
+2025-10-03,IndiGo,18.0
+2025-10-04,IndiGo,17.0
+2025-10-05,IndiGo,31.0
+2025-10-06,IndiGo,25.0
+2025-10-07,IndiGo,22.0
+2025-10-08,IndiGo,24.0
+2025-10-09,IndiGo,40.0
+2025-10-10,IndiGo,35.0
+2025-10-11,IndiGo,22.0
+2025-10-12,IndiGo,25.0
+2025-10-13,IndiGo,31.0
+2025-10-14,IndiGo,23.0
+2025-10-15,IndiGo,34.0
+2025-10-16,IndiGo,28.0
+2025-10-17,IndiGo,31.0
+2025-10-18,IndiGo,34.0
+2025-10-19,IndiGo,37.0
+2025-10-20,IndiGo,31.0
+2025-10-21,IndiGo,25.0
+2025-10-22,IndiGo,20.0
+2025-10-23,IndiGo,23.0
+2025-10-24,IndiGo,27.0
+2025-10-25,IndiGo,36.0
+2025-10-26,IndiGo,32.0
+2025-10-27,IndiGo,64.0
+2025-10-28,IndiGo,55.0
+2025-10-29,IndiGo,56.0
+2025-10-30,IndiGo,53.0
+2025-10-31,IndiGo,47.0
+2025-11-01,IndiGo,48.0
+2025-11-02,IndiGo,36.0
+2025-11-03,IndiGo,57.0
+2025-11-04,IndiGo,52.0
+2025-11-05,IndiGo,58.0
+2025-11-06,IndiGo,50.0
+2025-11-07,IndiGo,76.0
+2025-11-08,IndiGo,53.0
+2025-11-09,IndiGo,53.0
+2025-11-10,IndiGo,53.0
+2025-11-11,IndiGo,53.0
+2025-11-12,IndiGo,53.0
+2025-11-13,IndiGo,53.0
+2025-11-14,IndiGo,53.0
+2025-11-15,IndiGo,53.0
+2025-11-16,IndiGo,53.0
+2025-11-17,IndiGo,53.0
+2025-11-18,IndiGo,6.0
+2025-11-19,IndiGo,11.0
+2025-11-20,IndiGo,5.0
+2025-11-21,IndiGo,3.0
+2025-11-22,IndiGo,3.0
+2025-11-23,IndiGo,3.0
+2025-11-24,IndiGo,17.0
+2025-11-25,IndiGo,8.0
+2025-11-26,IndiGo,27.0
+2025-11-27,IndiGo,66.0
+2025-11-28,IndiGo,89.0
+2025-11-29,IndiGo,59.0
+2025-11-30,IndiGo,69.0
+2025-12-01,IndiGo,116.0
+2025-12-02,IndiGo,109.0
+2025-12-03,IndiGo,1344.0
+2025-12-07,IndiGo,1783.0
+2025-12-08,IndiGo,1598.0
+2025-12-09,IndiGo,1465.0
+2025-12-10,IndiGo,907.0
+2025-12-11,IndiGo,725.0
+2025-12-12,IndiGo,424.0
+2025-12-13,IndiGo,353.0
+2025-12-14,IndiGo,323.0
+2025-12-15,IndiGo,459.0
+2025-12-16,IndiGo,562.0
+2025-12-17,IndiGo,741.0
+2025-12-18,IndiGo,749.0
+2025-12-19,IndiGo,407.0
+2025-12-20,IndiGo,234.0
+2025-12-21,IndiGo,165.0
+2025-12-22,IndiGo,177.0
+2025-12-23,IndiGo,232.0
+2025-12-24,IndiGo,101.0
+2025-12-25,IndiGo,152.0
+2025-12-26,IndiGo,115.0
+2025-12-27,IndiGo,27.0
+2025-12-28,IndiGo,90.0
+2025-12-29,IndiGo,112.0
+2025-12-30,IndiGo,110.0
+2025-12-31,IndiGo,20.0
+2026-01-01,IndiGo,20.0
+2026-01-02,IndiGo,148.0
+2026-01-03,IndiGo,18.0
+2026-01-04,IndiGo,19.0
+2026-01-05,IndiGo,102.0
+2026-01-06,IndiGo,121.0
+2026-01-07,IndiGo,191.0
+2026-01-08,IndiGo,38.0
+2026-01-09,IndiGo,40.0
+2026-01-10,IndiGo,60.0
+2026-01-11,IndiGo,25.0
+2026-01-12,IndiGo,45.0
+2026-01-13,IndiGo,31.0
+2026-01-14,IndiGo,27.0
+2026-01-15,IndiGo,110.0
+2026-01-16,IndiGo,130.0
+2026-01-17,IndiGo,153.0
+2026-01-18,IndiGo,49.0
+2026-01-19,IndiGo,126.0
+2026-01-20,IndiGo,126.0
+2026-01-21,IndiGo,142.0
+2026-01-22,IndiGo,247.0
+2026-01-23,IndiGo,105.0
+2026-01-24,IndiGo,74.0
+2026-01-25,IndiGo,37.0
+2026-01-26,IndiGo,86.0
+2026-01-27,IndiGo,78.0
+2026-01-28,IndiGo,100.0
+2026-01-29,IndiGo,171.0
+2026-01-30,IndiGo,78.0
+2026-01-31,IndiGo,65.0
+2026-02-01,IndiGo,77.0
+2026-02-02,IndiGo,101.0
+2026-02-03,IndiGo,115.0
+2026-02-04,IndiGo,46.0
+2026-02-05,IndiGo,147.0
+2026-02-06,IndiGo,114.0
+2026-02-07,IndiGo,71.0
+2026-02-08,IndiGo,73.0
+2026-02-09,IndiGo,79.0
+2026-02-10,IndiGo,51.0
+2026-02-11,IndiGo,69.0
+2026-02-12,IndiGo,100.0
+2026-02-13,IndiGo,53.0
+2026-02-14,IndiGo,73.0
+2026-02-15,IndiGo,36.0
+2026-02-16,IndiGo,67.0
+2026-02-17,IndiGo,20.0
+2026-02-19,IndiGo,87.0
+2026-02-20,IndiGo,37.0
+2026-02-21,IndiGo,28.0
+2026-02-22,IndiGo,18.0
+2026-02-23,IndiGo,41.0
+2026-02-24,IndiGo,57.0
+2026-02-25,IndiGo,26.0
+2026-02-26,IndiGo,67.0
+2026-02-27,IndiGo,54.0
+2026-02-28,IndiGo,26.0
+2026-03-01,IndiGo,18.0
+2026-03-02,IndiGo,59.0
+2026-03-03,IndiGo,58.0
+2026-03-04,IndiGo,92.0
+2026-03-05,IndiGo,45.0
+2026-03-06,IndiGo,39.0
+2026-03-07,IndiGo,45.0
+2026-03-08,IndiGo,32.0
+2026-03-09,IndiGo,74.0
+2026-03-10,IndiGo,41.0
+2026-03-11,IndiGo,41.0
+2026-03-12,IndiGo,73.0
+2026-03-13,IndiGo,37.0
+2026-03-14,IndiGo,35.0
+2026-03-15,IndiGo,38.0
+2026-03-16,IndiGo,70.0
+2026-03-17,IndiGo,69.0
+2026-03-18,IndiGo,69.0
+2026-03-19,IndiGo,99.0
+2026-03-20,IndiGo,40.0
+2026-03-21,IndiGo,43.0
+2026-03-22,IndiGo,27.0
+2026-03-23,IndiGo,39.0
+2026-03-24,IndiGo,55.0
+2026-03-25,IndiGo,63.0
+2026-03-26,IndiGo,68.0
+2026-03-28,IndiGo,40.0
+2026-03-29,IndiGo,30.0
+2026-03-30,IndiGo,54.0
+2026-03-31,IndiGo,55.0
+2026-04-01,IndiGo,50.0
+2026-04-02,IndiGo,70.0
+2026-04-03,IndiGo,67.0
+2026-04-04,IndiGo,54.0
+2026-04-05,IndiGo,41.0
+2026-04-06,IndiGo,43.0
+2026-04-07,IndiGo,49.0
+2026-04-08,IndiGo,42.0
+2026-04-09,IndiGo,75.0
+2026-04-11,IndiGo,64.0
+2026-04-12,IndiGo,73.0
+2026-04-13,IndiGo,46.0
+2026-04-14,IndiGo,56.0
+2026-04-15,IndiGo,56.0
+2026-04-16,IndiGo,75.0
+2026-04-17,IndiGo,51.0
+2026-04-21,IndiGo,70.0
+2026-04-23,IndiGo,43.0
+2026-04-25,IndiGo,29.0
+2026-04-26,IndiGo,43.0
+2026-04-30,IndiGo,33.0
+2026-05-04,IndiGo,38.0
+2026-05-07,IndiGo,54.0
+2026-05-08,IndiGo,31.0
+2026-05-11,IndiGo,36.0
+2026-05-12,IndiGo,43.0
+2026-05-14,IndiGo,54.0
+2026-05-15,IndiGo,41.0
+2026-05-16,IndiGo,24.0
+2026-05-19,IndiGo,32.0
+2026-05-21,IndiGo,66.0
+2026-05-22,IndiGo,43.0
+2026-05-24,IndiGo,29.0
+2026-05-25,IndiGo,27.0
+2026-05-26,IndiGo,32.0
+2026-05-27,IndiGo,28.0
+2026-05-28,IndiGo,50.0
+2026-05-29,IndiGo,43.0
+2026-05-30,IndiGo,36.0
+2026-05-31,IndiGo,36.0
+2026-06-01,IndiGo,35.0
+2026-06-02,IndiGo,35.0
+2026-06-03,IndiGo,35.0
+2026-06-04,IndiGo,73.0
+2026-06-05,IndiGo,53.0
+2026-06-06,IndiGo,41.0
+2026-06-07,IndiGo,32.0
+2026-06-08,IndiGo,29.0
+2026-06-09,IndiGo,38.0
+2026-06-10,IndiGo,44.0
+2026-06-11,IndiGo,61.0
+2026-06-12,IndiGo,44.0
+2026-06-13,IndiGo,35.0
+2026-06-14,IndiGo,58.0
+2026-06-15,IndiGo,28.0
+2026-06-16,IndiGo,14.0
+2026-06-17,IndiGo,40.0
+2026-06-18,IndiGo,51.0
+2026-06-19,IndiGo,53.0
+2026-06-20,IndiGo,42.0
+2026-06-21,IndiGo,30.0
+2026-06-22,IndiGo,22.0
+2026-06-23,IndiGo,25.0
+2026-06-24,IndiGo,31.0
+2026-06-25,IndiGo,36.0
+2026-06-26,IndiGo,21.0
+2026-06-27,IndiGo,14.0
+2026-06-28,IndiGo,12.0
+2026-06-29,IndiGo,33.0
+2026-06-30,IndiGo,34.0
+2026-07-01,IndiGo,18.0
+2026-07-02,IndiGo,28.0
+2026-07-03,IndiGo,23.0
+2026-07-05,IndiGo,30.0
+2023-04-17,Star Air,3.0
+2023-04-18,Star Air,3.0
+2023-04-19,Star Air,5.0
+2023-04-20,Star Air,5.0
+2023-11-21,Star Air,6.0
+2024-12-24,Star Air,5.0
+2025-09-17,Star Air,11.0
+2025-10-02,Star Air,24.0
+2025-10-04,Star Air,13.0
+2025-10-18,Star Air,25.0
+2025-10-19,Star Air,25.0
+2025-10-20,Star Air,25.0
+2025-10-25,Star Air,23.0
+2025-10-26,Star Air,24.0
+2025-11-08,Star Air,22.0
+2025-11-09,Star Air,22.0
+2025-11-10,Star Air,22.0
+2025-11-11,Star Air,22.0
+2025-11-12,Star Air,22.0
+2025-11-13,Star Air,22.0
+2025-11-14,Star Air,22.0
+2025-11-15,Star Air,22.0
+2025-11-16,Star Air,22.0
+2025-11-17,Star Air,22.0
+2026-01-24,Star Air,17.0
+2026-01-25,Star Air,24.0
+2026-02-18,Star Air,36.0
+2026-02-28,Star Air,35.0
+2021-08-22,Vistara,6.0
+2021-11-29,Vistara,5.0
+2021-12-26,Vistara,3.0
+2022-01-02,Vistara,3.0
+2022-01-04,Vistara,4.0
+2022-01-13,Vistara,5.0
+2022-01-29,Vistara,5.0
+2022-01-30,Vistara,7.0
+2022-02-02,Vistara,3.0
+2022-02-03,Vistara,2.0
+2022-02-04,Vistara,4.0
+2022-02-05,Vistara,5.0
+2022-02-09,Vistara,2.0
+2022-03-02,Vistara,3.0
+2022-03-10,Vistara,2.0
+2022-03-18,Vistara,3.0
+2022-03-22,Vistara,4.0
+2022-04-08,Vistara,5.0
+2022-04-09,Vistara,8.0
+2022-04-13,Vistara,4.0
+2023-01-03,Vistara,6.0
+2023-02-01,Vistara,4.0
+2023-03-05,Vistara,8.0
+2023-03-11,Vistara,4.0
+2023-03-22,Vistara,5.0
+2023-04-10,Vistara,5.0
+2023-04-11,Vistara,7.0
+2023-04-12,Vistara,7.0
+2023-06-28,Vistara,4.0
+2023-06-29,Vistara,3.0
+2023-07-12,Vistara,4.0
+2023-10-13,Vistara,4.0
+2023-10-15,Vistara,5.0
+2023-10-16,Vistara,7.0
+2023-10-17,Vistara,8.0
+2023-10-20,Vistara,5.0
+2023-10-21,Vistara,6.0
+2023-10-22,Vistara,6.0
+2023-10-28,Vistara,6.0
+2023-10-29,Vistara,5.0
+2023-11-07,Vistara,6.0
+2023-11-08,Vistara,7.0
+2023-11-09,Vistara,10.0
+2023-11-10,Vistara,11.0
+2023-11-20,Vistara,5.0
+2023-11-21,Vistara,4.0
+2023-12-06,Vistara,8.0
+2023-12-07,Vistara,13.0
+2023-12-08,Vistara,7.0
+2023-12-10,Vistara,6.0
+2023-12-11,Vistara,6.0
+2023-12-13,Vistara,8.0
+2024-01-23,Vistara,8.0
+2024-02-09,Vistara,6.0
+2024-02-12,Vistara,7.0
+2024-02-26,Vistara,9.0
+2024-03-02,Vistara,6.0
+2024-03-07,Vistara,6.0
+2024-03-08,Vistara,10.0
+2024-03-09,Vistara,18.0
+2024-03-10,Vistara,11.0
+2024-03-11,Vistara,12.0
+2024-03-30,Vistara,19.0
+2024-03-31,Vistara,14.0
+2024-04-01,Vistara,17.0
+2024-04-02,Vistara,10.0
+2024-04-03,Vistara,11.0
+2024-04-08,Vistara,10.0
+2024-04-09,Vistara,6.0
+2024-05-28,Vistara,4.0
+2024-07-15,Vistara,6.0
+2024-09-18,Vistara,10.0
+2024-09-20,Vistara,4.0
+2024-09-30,Vistara,7.0
+2024-10-01,Vistara,4.0
+2024-10-02,Vistara,7.0
+2024-10-03,Vistara,8.0
+2024-10-04,Vistara,10.0
+2024-10-05,Vistara,8.0
+2024-10-06,Vistara,8.0
+2024-10-07,Vistara,9.0
+2024-10-08,Vistara,10.0
+2024-10-09,Vistara,12.0
+2024-10-10,Vistara,12.0

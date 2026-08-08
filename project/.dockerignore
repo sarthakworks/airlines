@@ -1,0 +1,21 @@
+# From M5 Step 3.3 — exclude unnecessary files from the image
+.git
+.gitignore
+__pycache__
+**/__pycache__
+*.pyc
+*.pyo
+*.pyd
+.env
+*.env
+!.env.example
+.venv
+venv
+.venv/
+chroma_db/
+.DS_Store
+.ipynb_checkpoints
+*.ipynb
+README.md
+docker-compose.yml
+.pytest_cache

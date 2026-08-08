@@ -1,0 +1,24 @@
+# Local development Postgres for the flights table.
+# Matches the DB_* defaults in .env.example.
+#   Start:  docker compose up -d
+#   Stop:   docker compose down         (add -v to also wipe data)
+services:
+  db:
+    image: postgres:16
+    container_name: airline_pg
+    environment:
+      POSTGRES_USER: airline
+      POSTGRES_PASSWORD: airline_pw
+      POSTGRES_DB: airline
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U airline -d airline"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+volumes:
+  pgdata:
