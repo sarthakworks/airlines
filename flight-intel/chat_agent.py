@@ -29,6 +29,13 @@ load_dotenv(Path(__file__).resolve().parent / ".env")
 GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")
 GROQ_MODEL = os.getenv("GROQ_MODEL", "openai/gpt-oss-120b")
 GROQ_BASE_URL = os.getenv("GROQ_BASE_URL", "https://api.groq.com/openai/v1")
+# Higher-rate-limit Groq model used as the first fallback when the primary is throttled.
+GROQ_FALLBACK_MODEL = os.getenv("GROQ_FALLBACK_MODEL", "llama-3.1-8b-instant")
+# Optional second provider: Google Gemini free tier via its OpenAI-compatible endpoint.
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
+GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.0-flash")
+GEMINI_BASE_URL = os.getenv(
+    "GEMINI_BASE_URL", "https://generativelanguage.googleapis.com/v1beta/openai/")
 
 CITY_ALIASES = {
     "delhi": "Delhi", "new delhi": "Delhi", "del": "Delhi",
@@ -284,26 +291,61 @@ SYSTEM = (
 )
 
 
-@lru_cache(maxsize=1)
-def _get_agent():
-    if not GROQ_API_KEY:
-        raise RuntimeError("GROQ_API_KEY not set — add it to ../project/.env")
+def _providers() -> list[tuple[str, str, str, str]]:
+    """Ordered fallback chain: (label, model, api_key, base_url). Skips unconfigured ones."""
+    chain = []
+    if GROQ_API_KEY:
+        chain.append(("groq/" + GROQ_MODEL, GROQ_MODEL, GROQ_API_KEY, GROQ_BASE_URL))
+        if GROQ_FALLBACK_MODEL and GROQ_FALLBACK_MODEL != GROQ_MODEL:
+            chain.append(("groq/" + GROQ_FALLBACK_MODEL, GROQ_FALLBACK_MODEL,
+                          GROQ_API_KEY, GROQ_BASE_URL))
+    if GEMINI_API_KEY:
+        chain.append(("gemini/" + GEMINI_MODEL, GEMINI_MODEL, GEMINI_API_KEY, GEMINI_BASE_URL))
+    return chain
+
+
+@lru_cache(maxsize=8)
+def _agent_for(model: str, api_key: str, base_url: str):
     from langgraph.prebuilt import create_react_agent
-    llm = ChatOpenAI(model=GROQ_MODEL, temperature=0, api_key=GROQ_API_KEY,
-                     base_url=GROQ_BASE_URL, timeout=60, max_retries=2)
+    llm = ChatOpenAI(model=model, temperature=0, api_key=api_key,
+                     base_url=base_url, timeout=60, max_retries=1)
     return create_react_agent(llm, TOOLS)
 
 
+def _is_rate_limit(exc: Exception) -> bool:
+    text = str(exc).lower()
+    return (exc.__class__.__name__ == "RateLimitError"
+            or "429" in text or "rate limit" in text or "quota" in text
+            or "insufficient_quota" in text)
+
+
 def answer(query: str) -> str:
-    """Answer a natural-language flight question. Returns the assistant's text."""
-    try:
-        agent = _get_agent()
-        res = agent.invoke({"messages": [SystemMessage(content=SYSTEM),
-                                         HumanMessage(content=query)]})
-        txt = res["messages"][-1].content.strip()
-        return txt or "Sorry, I couldn't work that out — try rephrasing."
-    except Exception as exc:  # noqa: BLE001
-        return f"Sorry, I hit an error answering that: {exc}"
+    """Answer a flight question, falling back across providers when one is throttled."""
+    chain = _providers()
+    if not chain:
+        return ("The AI assistant isn't configured yet — add a free GROQ_API_KEY "
+                "(and optionally GEMINI_API_KEY) in the app's Secrets.")
+    saw_rate_limit = False
+    last_err = None
+    for label, model, key, base in chain:
+        try:
+            agent = _agent_for(model, key, base)
+            res = agent.invoke({"messages": [SystemMessage(content=SYSTEM),
+                                             HumanMessage(content=query)]})
+            txt = res["messages"][-1].content.strip()
+            if txt:
+                return txt
+            last_err = "empty response"
+        except Exception as exc:  # noqa: BLE001
+            last_err = f"{label}: {exc}"
+            if _is_rate_limit(exc):
+                saw_rate_limit = True
+            continue  # try the next provider in the chain
+    if saw_rate_limit:
+        return ("⚠️ The free AI service is busy (rate limit reached) and the backups are "
+                "also throttled. Please wait a minute and try again — meanwhile the "
+                "**Route Explorer**, **Sector Issues**, and **Schedules** tabs work without AI.")
+    return f"Sorry, I couldn't answer that right now. ({last_err})"
 
 
 if __name__ == "__main__":
